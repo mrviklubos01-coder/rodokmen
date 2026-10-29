@@ -26,7 +26,7 @@ P = {
             note="Matka výchozí osoby, provdaná Mrvíková. Údaje od rodiny (uživatel, 29. 10. 2026). Místo narození neznámé. Zda žije – zatím nezjištěno."),
     4: dict(n="Jan Mrvík", y="? – 1976", st="fam", f=["† 1976", "pohřben v Boru (okr. Tachov)", "žil v Boru a na Nové Hospodě (okr. Tachov)"],
             note="Otec Jana Mrvíka (2). Od rodiny (uživatel, 29. 10. 2026); rok a místo narození neznámé."),
-    5: dict(n="Anna Kicková", y="", st="fam", f=["žila v Boru a na Nové Hospodě (okr. Tachov)"],
+    5: dict(n="Anna Kicková", y="* 1912", st="fam", f=["* 1912 na Slovensku", "žila v Boru a na Nové Hospodě (okr. Tachov)"],
             note="Matka Jana Mrvíka (2), provdaná Mrvíková. Od rodiny (uživatel, 29. 10. 2026)."),
     6: dict(n="Josef Křivanec", y="? – 1980", st="fam", f=["† 1980", "pohřben v Damnově (okr. Tachov)"],
             note="Otec Marie Křivancové (3). Od rodiny (uživatel, 29. 10. 2026); roky a místa zatím neznámé."),
