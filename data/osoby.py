@@ -96,6 +96,8 @@ LINES = {
 # dict(k=16, n="Josef Novák (1865–1920)", t="Bratr Jana. Kovář v …", r=["klic_zapisu"])
 SIDE = [
     dict(k=19, n="Josef Tintěra", t="Domkář v Koupi čp. 51. Při křtu Marie Hupákové 1885 zapsán jako otec její matky a zároveň byl kmotrem; sňatek 1880 ale uvádí jako otce nevěsty Františka Vavříka, kováře z Újezdce. Hypotéza: nevlastní otec (druhý manžel Anny Kozlové). Do jeho domu čp. 51 se Mrvíkovi po svatbě 1908 nastěhovali.", r=["cernivsko_krest_marie_hupakova_1885"]),
+    dict(k=32, n="Vojtěch Mrvík", t="Domkář v Podruhlí čp. 11, děti 1839–1847 (Marie, Anna, Anděla). Ve stejném domě se 1851 narodil syn Václava Mrvíka (32) František. Možná Václavův bratr – neověřeno."),
+    dict(k=16, n="Anna a František Mrvíkovi", t="Sourozenci Václava (16): Anna * 11. 10. 1849 Podruhlí čp. 12, František * 9. 5. 1851 Podruhlí čp. 11 (podle rejstříku narozených Bělčice)."),
     dict(k=16, n="František Mrvík", t="Domkář v Podruhlí čp. 7, syn Václava Mrvíka z čp. 12 a Marie Pirhanzlové – tedy nejspíš bratr Václava (16). Jeho syn Josef se narodil 2. 4. 1884 (zápis na stejné stránce jako Václav, čteno z náhledu). František Mrvík, domkář v Podruhlí, byl 1908 svědkem na svatbě Václava (8).", r=["belcice_krest_vaclav_mrvik_1884"]),
     dict(k=4, n="Marie Mrvíková (* 1909)", t="Narozena 8. 3. 1909 v Koupi č. 51, otec domkář – stejný dům jako Josef (1910), rok po svatbě Václava Mrvíka a Marie Hupákové; nejspíš Josefova starší sestra.", r=["belcice_index_josef_mrvik_1910"]),
 ]
