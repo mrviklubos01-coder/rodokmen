@@ -15,3 +15,5 @@ Co víme z vyprávění a rodinných dokumentů – kdo to řekl / odkud to je a
 - „Babička je ze Slovenska, rok narození 1912“ – zatím nejasné, která babička (Anna Kicková, nebo Marie Jačková); doptat se.
 - Dědeček Josef Křivanec (otec matky) zemřel 1980, pohřben v Damnově.
 - Upřesněno: ze Slovenska, * 1912, je babička **Anna Kicková** (matka otce). Obec zatím neznámá.
+- Odhady roků narození (uživatel): dědeček Jan Mrvík „kolem 1910“, dědeček Josef Křivanec „podle mě kolem roku 1920“.
+- Babička Anna Mrvíková (roz. Kicková) je pohřbena v **Bechlíně u Roudnice nad Labem** (okr. Litoměřice).
