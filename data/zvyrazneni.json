@@ -10,5 +10,29 @@
   ],
   "status": "ok",
   "note": "Řádek Josefa Mrvíka; o 9 řádků výš Marie Mrvíková, Koupě 51, 1909."
+ },
+ "belcice_snatek_vaclav_mrvik_1908": {
+  "boxes": [
+   [
+    0.0,
+    0.335,
+    1.0,
+    0.945
+   ]
+  ],
+  "status": "ok",
+  "note": "Zápis č. 2 – sňatek Václava Mrvíka a Marie Hupákové."
+ },
+ "belcice_krest_vaclav_mrvik_1884": {
+  "boxes": [
+   [
+    0.0,
+    0.808,
+    1.0,
+    0.955
+   ]
+  ],
+  "status": "ok",
+  "note": "Poslední zápis na stránce – křest Václava Mrvíka 1884."
  }
 }

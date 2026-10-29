@@ -34,4 +34,7 @@ pak konec `research_log.md` a sekci „Rozpracováno“.
 6. Po změně dat spustím `python3 -I tools/kontrola.py`.
 
 ## Rozpracováno (aktualizovat průběžně)
-- Fáze 1: rozhovor s rodinou – zjistit výchozí osobu, rodiče, prarodiče, pradědečky.
+- Fáze 1: od rodiny chybí údaje o babičce Marii Jačkové (7) a narození Josefa Křivance (6, asi 1920).
+- Fáze 2, větev Mrvíkové (fara Bělčice, SOA Třeboň, `trebon.py`): doloženo Josef (4) * 1910 Koupě 51 (rejstřík), sňatek rodičů (pravděp.) Václav Mrvík × Marie Hupáková 1908, křest Václava 1884. Další kroky – konec `research_log.md`.
+- Slovenská větev: Anna Kicková * 24. 9. 1912 Lehôtka pod Brehmi – zatím nehledáno (FamilySearch vyžaduje přihlášení uživatele).
+- Síť: uživatel povolil plný přístup k internetu (29. 10. 2026); Porta fontium přes curl hlásila chybu – ověřit nástrojem.
