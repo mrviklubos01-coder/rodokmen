@@ -37,5 +37,7 @@ pak konec `research_log.md` a sekci „Rozpracováno“.
 - **Plán uživatele (29. 10. 2026):** nejdřív dohledat otcův rodokmen (Mrvíkové – Jakub z Uzenic a starší; Hupákovi z Hošovic), příběh rodu až později. Potom matčina linie: Marie Mrvíková roz. Křivancová, * 5. 5. 1948 (Křivanec, Jačková).
 - Fáze 1: od rodiny chybí údaje o babičce Marii Jačkové (7) a narození Josefa Křivance (6, asi 1920).
 - Fáze 2, větev Mrvíkové (fary Bělčice a Černívsko, SOA Třeboň, `trebon.py`; Uzenice, Chobot, Hošovice = fara Černívsko): doloženo Josef (4) * 1910 Koupě 51 (rejstřík), sňatek rodičů (pravděp.) Václav Mrvík × Marie Hupáková 1908, křest Václava 1884. Další kroky – konec `research_log.md`.
+- Hupákovi: doloženo Marie Hupáková * 1885, sňatek rodičů 1880, křest matky Marie Vavříkové 1856 (otec kovář František Vavřík, Újezdec 36). Další krok: sňatek Josefa Tintěry s Annou Kozlovou (nevlastní otec).
+- Mrvíkové: sňatek Václava (32) × Marie Pirhanzlové nenalezen (asi 1848–49) – Bělčice 1840–72 ne, Černívsko oddíl Chobot nenalezen. Jakub (64) z Uzenic zatím nehledán.
 - Slovenská větev: Anna Kicková * 24. 9. 1912 Lehôtka pod Brehmi (okr. Žiar nad Hronom, dříve Tekovská stolice) – zatím nehledáno. Uživatel má účet na FamilySearch (29. 10. 2026); snímky otevírá on a posílá snímky obrazovky – Claude se za něj nepřihlašuje. Farnost Lehôtky neověřena (sousední farnost Brehy – jen hypotéza).
 - Síť: uživatel povolil plný přístup k internetu (29. 10. 2026); Porta fontium přes curl hlásila chybu – ověřit nástrojem.
