@@ -5,3 +5,7 @@ Jen technické věci, žádné údaje o rodině. Nic se neposílá automaticky �
 a vy je zkopírujete do e-mailu na sarsonj@gmail.com. Klidně připište i vlastní zkušenosti – užitečné změny autor rád
 zapracuje do skillu, aby je měli i ostatní. Děkujeme!
 
+
+- Cloudové prostředí (claude.ai/code): výchozí síťová politika blokuje archivní portály (portafontium.eu, aron.vychodoceskearchivy.cz,
+  slovakiana.sk, familysearch.org – proxy vrací 403 na CONNECT). Skill by mohl ve Fázi 0 v cloudu hned ověřit dostupnost portálů
+  a poradit uživateli přidat domény do „Allowed domains“ v nastavení prostředí.

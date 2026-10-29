@@ -10,3 +10,6 @@ Co víme z vyprávění a rodinných dokumentů – kdo to řekl / odkud to je a
 - Všechna uvedená místa (Bor, Nová Hospoda, Damnov) jsou v okrese Tachov.
 - Výchozí osoba: **Luboš Mrvík**, * 1. 8. 1977 Planá u Mariánských Lázní (okr. Tachov); dříve bydliště Bor u Tachova, nyní Damnov.
 - Rodiče matky Marie: otec **Josef Křivanec**, matka **Marie Křivancová, roz. Jačková**.
+- Potvrzeno: Jan Mrvík a Anna Kicková jsou rodiče otce Jana (prarodiče, č. 4 a 5).
+- Dědeček Jan Mrvík (otec otce) zemřel 1976, pohřben v Boru u Tachova.
+- „Babička je ze Slovenska, rok narození 1912“ – zatím nejasné, která babička (Anna Kicková, nebo Marie Jačková); doptat se.
