@@ -58,5 +58,17 @@
   ],
   "status": "ok",
   "note": "Druhý zápis – křest Václava Mrvíka 1854."
+ },
+ "cernivsko_krest_marie_hupakova_1885": {
+  "boxes": [
+   [
+    0.0,
+    0.735,
+    1.0,
+    0.925
+   ]
+  ],
+  "status": "ok",
+  "note": "Zápis č. 39 – křest Marie Hupákové."
  }
 }

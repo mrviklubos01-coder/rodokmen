@@ -34,6 +34,7 @@ pak konec `research_log.md` a sekci „Rozpracováno“.
 6. Po změně dat spustím `python3 -I tools/kontrola.py`.
 
 ## Rozpracováno (aktualizovat průběžně)
+- **Plán uživatele (29. 10. 2026):** nejdřív dohledat otcův rodokmen (Mrvíkové – Jakub z Uzenic a starší; Hupákovi z Hošovic), příběh rodu až později. Potom matčina linie: Marie Mrvíková roz. Křivancová, * 5. 5. 1948 (Křivanec, Jačková).
 - Fáze 1: od rodiny chybí údaje o babičce Marii Jačkové (7) a narození Josefa Křivance (6, asi 1920).
 - Fáze 2, větev Mrvíkové (fara Bělčice, SOA Třeboň, `trebon.py`): doloženo Josef (4) * 1910 Koupě 51 (rejstřík), sňatek rodičů (pravděp.) Václav Mrvík × Marie Hupáková 1908, křest Václava 1884. Další kroky – konec `research_log.md`.
 - Slovenská větev: Anna Kicková * 24. 9. 1912 Lehôtka pod Brehmi (okr. Žiar nad Hronom, dříve Tekovská stolice) – zatím nehledáno. Uživatel má účet na FamilySearch (29. 10. 2026); snímky otevírá on a posílá snímky obrazovky – Claude se za něj nepřihlašuje. Farnost Lehôtky neověřena (sousední farnost Brehy – jen hypotéza).
