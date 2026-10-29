@@ -20,3 +20,5 @@ Co víme z vyprávění a rodinných dokumentů – kdo to řekl / odkud to je a
 - Dědeček Jan Mrvík je „z Čech“ (obec zatím neznámá).
 - Babička Anna zemřela v Bechlíně. Uživatel doslova: „žila tam u příbuzných, ano byla tam na návštěvě u příbuzných, které mají příjmení Snopovi“.
   Rok úmrtí zatím neznámý. Příbuzenský vztah ke Snopovým neznámý (její rodina? dědečkova?).
+- **Oprava:** otec otce se jmenuje **Josef Mrvík** (ne Jan), * 13. 3. 1910, místo narození „asi Koupě“; † 30. 6. 1976.
+- Babička **Anna Mrvíková, roz. Kicková**, * 24. 9. 1912 Lehôtka pod Brehmi (Slovensko), † 25. 2. 2002 (Bechlín).

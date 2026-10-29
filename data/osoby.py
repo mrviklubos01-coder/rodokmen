@@ -24,10 +24,10 @@ P = {
             note="Otec výchozí osoby. Údaje od rodiny (uživatel, 29. 10. 2026). Zda žije – zatím nezjištěno; do té doby jen základní údaje."),
     3: dict(n="Marie Křivancová", y="* 1948", st="fam", f=["* 1948", "žila v Damnově (okr. Tachov)"],
             note="Matka výchozí osoby, provdaná Mrvíková. Údaje od rodiny (uživatel, 29. 10. 2026). Místo narození neznámé. Zda žije – zatím nezjištěno."),
-    4: dict(n="Jan Mrvík", y="asi 1910–1976", st="fam", f=["* asi 1910", "† 1976", "pohřben v Boru (okr. Tachov)", "žil v Boru a na Nové Hospodě (okr. Tachov)"],
-            note="Otec Jana Mrvíka (2). Od rodiny (uživatel, 29. 10. 2026); rok a místo narození neznámé."),
-    5: dict(n="Anna Kicková", y="* 1912", st="fam", f=["* 1912 na Slovensku", "žila v Boru a na Nové Hospodě (okr. Tachov)", "† Bechlín (okr. Litoměřice)", "pohřbena v Bechlíně u Roudnice nad Labem"],
-            note="Matka Jana Mrvíka (2), provdaná Mrvíková. Od rodiny (uživatel, 29. 10. 2026)."),
+    4: dict(n="Josef Mrvík", y="1910–1976", st="fam", f=["* 13. 3. 1910 Koupě (?)", "žil v Boru a na Nové Hospodě (okr. Tachov)", "† 30. 6. 1976", "pohřben v Boru (okr. Tachov)"],
+            note="Otec Jana Mrvíka (2). Od rodiny (uživatel, 29. 10. 2026). Místo narození rodina uvádí „asi Koupě“ – ověřit. Nejdřív uveden jako „Jan“, pak opraven na Josef."),
+    5: dict(n="Anna Kicková", y="1912–2002", st="fam", f=["* 24. 9. 1912 Lehôtka pod Brehmi (Slovensko)", "žila v Boru a na Nové Hospodě (okr. Tachov)", "† 25. 2. 2002 Bechlín (okr. Litoměřice)", "pohřbena v Bechlíně u Roudnice nad Labem"],
+            note="Matka Jana Mrvíka (2), provdaná Mrvíková. Od rodiny (uživatel, 29. 10. 2026). Zemřela u příbuzných Snopových v Bechlíně."),
     6: dict(n="Josef Křivanec", y="asi 1920–1980", st="fam", f=["* asi 1920", "† 1980", "pohřben v Damnově (okr. Tachov)"],
             note="Otec Marie Křivancové (3). Od rodiny (uživatel, 29. 10. 2026); roky a místa zatím neznámé."),
     7: dict(n="Marie Jačková", y="", st="fam", f=[],
@@ -48,6 +48,8 @@ SIDE = [
 # „Vyřešeno: …“ (na webu se skryje), „Hypotéza: …“ nebo „Otevřené: …“. Jde na web – nic citlivého.
 # ("Kdy se narodil Jan Novák?", "Otevřené: rodina říká 1850, v Holicích 1848–1852 nenalezen.")
 ISSUES = [
+    ("Kde se narodil Josef Mrvík (1910)?", "Otevřené: rodina uvádí „asi Koupě“; zápis o křtu zatím nehledán."),
+    ("Jak byli příbuzní Snopovi z Bechlína?", "Otevřené: babička Anna u nich zemřela (2002); vztah k rodině zatím neznámý."),
 ]
 
 # Hypotézy o původu rodu nad rámec doložené linie (zobrazí se na stránce rodu):
