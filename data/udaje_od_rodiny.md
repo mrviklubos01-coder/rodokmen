@@ -4,3 +4,7 @@ Co víme z vyprávění a rodinných dokumentů – kdo to řekl / odkud to je a
 
 ## 29. 10. 2026 – od uživatele (výchozí osoba, zatím nepotvrzeno, zda je to on sám)
 - Otec: **Jan Mrvík**, * 16. 5. 1948, Bor u Tachova.
+- Uživatel doslova: „Otec Jan Mrvík, matka Anna Mrvíková, rozená Kicková, žili v Boru u Tachova a na Nové Hospodě.“
+  – Napsáno jako odpověď na otázku po otcových rodičích; čeká na potvrzení, že jde o rodiče otce (prarodiče), ne o otce samotného.
+- Matka: **Marie Mrvíková, roz. Křivancová**, * 5. 5. 1948, místo narození neznámé, žila v Damnově.
+- Všechna uvedená místa (Bor, Nová Hospoda, Damnov) jsou v okrese Tachov.
