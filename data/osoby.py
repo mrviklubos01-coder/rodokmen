@@ -24,6 +24,10 @@ P = {
             note="Otec výchozí osoby. Údaje od rodiny (uživatel, 29. 10. 2026). Zda žije – zatím nezjištěno; do té doby jen základní údaje."),
     3: dict(n="Marie Křivancová", y="* 1948", st="fam", f=["* 1948", "žila v Damnově (okr. Tachov)"],
             note="Matka výchozí osoby, provdaná Mrvíková. Údaje od rodiny (uživatel, 29. 10. 2026). Místo narození neznámé. Zda žije – zatím nezjištěno."),
+    6: dict(n="Josef Křivanec", y="", st="fam", f=[],
+            note="Otec Marie Křivancové (3). Od rodiny (uživatel, 29. 10. 2026); roky a místa zatím neznámé."),
+    7: dict(n="Marie Jačková", y="", st="fam", f=[],
+            note="Matka Marie Křivancové (3), provdaná Křivancová. Od rodiny (uživatel, 29. 10. 2026); roky a místa zatím neznámé."),
 }
 
 # Rody = osm větví podle pradědečků a prababiček (čísla 8–15). Doplňte, jakmile je znáte:

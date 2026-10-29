@@ -9,3 +9,4 @@ Co víme z vyprávění a rodinných dokumentů – kdo to řekl / odkud to je a
 - Matka: **Marie Mrvíková, roz. Křivancová**, * 5. 5. 1948, místo narození neznámé, žila v Damnově.
 - Všechna uvedená místa (Bor, Nová Hospoda, Damnov) jsou v okrese Tachov.
 - Výchozí osoba: **Luboš Mrvík**, * 1. 8. 1977 Planá u Mariánských Lázní (okr. Tachov); dříve bydliště Bor u Tachova, nyní Damnov.
+- Rodiče matky Marie: otec **Josef Křivanec**, matka **Marie Křivancová, roz. Jačková**.
