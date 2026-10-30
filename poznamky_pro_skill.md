@@ -9,3 +9,5 @@ zapracuje do skillu, aby je měli i ostatní. Děkujeme!
 - Cloudové prostředí (claude.ai/code): výchozí síťová politika blokuje archivní portály (portafontium.eu, aron.vychodoceskearchivy.cz,
   slovakiana.sk, familysearch.org – proxy vrací 403 na CONNECT). Skill by mohl ve Fázi 0 v cloudu hned ověřit dostupnost portálů
   a poradit uživateli přidat domény do „Allowed domains“ v nastavení prostředí.
+- Past: osoby v `P` nejsou v souboru seřazené podle čísla (nové se přidávají kam se hodí). Úprava „vyříznout od `N: dict(` po `M: dict(`“
+  skriptem omylem smazala osoby mezi nimi. Pomohl by nástroj `osoba.py <číslo> <vstup>` (jako zapis.py) pro změnu jedné osoby.
