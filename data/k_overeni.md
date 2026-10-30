@@ -73,3 +73,16 @@ jen že to stojí na jednom zdroji, na nejistém čtení nebo na odhadu. Doplňu
 | Josef Sichrovský (profesor v Novém Jičíně) jako bratr Johanny Sichrovské | jen kmotrovství a příjmení |
 | Marie Mrvíková (1909) jako sestra dědečka Josefa | stejný dům, rok před ním |
 | Historické souvislosti v `podklady_pribeh.md` ([H]) | obecně známé události – ověřit, zda se týkaly konkrétních vsí |
+
+## 6. Otázky pro rodinu a pro vlastní dohledání (předáno uživateli 31. 10. 2026)
+1. **Úmrtní list Josefa Mrvíka** (Bor, 1976) – potvrdí jeho rodiče (spoj celé otcovy linie).
+2. Úmrtní listy / náhrobky: Josef Křivanec († 1980 Damnov), Marie Křivancová roz. Jačková († 10/2005), Anna Mrvíková roz. Kicková († 2002 Bechlín).
+3. Rodné listy rodičů (Jan Mrvík 1948, Marie Křivancová 1948) – místo narození maminky.
+4. **Babička Anna Kicková**: křest v Horných Opatovcích 1912 (FamilySearch DGS 5014233, Item 3 – Krsty 1886–1923); jména jejích rodičů; jak se dostala do Čech; svatba s Josefem Mrvíkem (kdy, kde); vztah ke Snopovým z Bechlína.
+5. Proč a kdy Mrvíkovi a Křivancovi přišli na Tachovsko (přídělové listiny v SOkA Tachov).
+6. Sňatky nedohledané v matrikách: Václav Mrvík × Marie Pirhanzlová (asi 1848), Václav Křivanec × Anna Varousová (asi 1880–1890), Josef Jačka × Terezie Matoušková (asi 1880–1892, oddíl Malá Turná 1862–1889 v knize Radomyšl O nenalezen), Václav Lokaj × Anna Suchá (asi 1830–1845, Mišovice O id 6555).
+7. Křest Anny Čapkové (asi 1870, Chrášťovice – Radomyšl N kniha 10, id 6868).
+8. Záhada Tintěrových (proč jsou 1885 a 1908 uvedeni jako rodiče Marie Vavříkové).
+9. Vojenská služba předků (kmenové listy ve Vojenském ústředním archivu): Martin Hupák, Václav Hupák, Václav Mrvík, Josef Křivanec (1891), Jan Jačka (1893), Josef Mrvík (1910).
+10. Rodinné vzpomínky, fotky, doklady (domovské listy, výuční listy, pracovní knížky).
+

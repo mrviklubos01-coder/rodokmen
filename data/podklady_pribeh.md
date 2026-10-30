@@ -123,3 +123,67 @@ Značky: **[M]** = přečteno v matrice, **[R]** = od rodiny, **[O]** = odvozeno
 - Byl pradědeček Josef Křivanec (1891) v 1. světové válce na frontě?
 - Jak to bylo s hospodářstvím v Damnově po roce 1948 (JZD)?
 - Rodinné historky, fotky, řemesla, přezdívky.
+
+---
+
+## 5. Místa a časy pro historický výzkum
+
+Kde a kdy předkové žili – podle matrik. Vhodné pro dohledání místních událostí (požáry, epidemie, povodně, odvody,
+kroniky obcí, Státní okresní archivy Strakonice, Písek, Příbram, Tachov). [M] = matrika, [R] = rodina.
+
+### Otcova strana – Blatensko, Březnicko (dnes okr. Strakonice, Příbram), fary Bělčice, Černívsko, Mišovice
+| Místo | Dům | Kdy (doloženo) | Kdo | Pozn. |
+|---|---|---|---|---|
+| Uzenice | čp. 1 | před 1854 | Jakub Mrvík, tesař | fara Černívsko [M] |
+| Podruhlí (u Bělčic) | čp. 12 | 1849–1854 | Václav Mrvík st., domkář; děti Anna 1849, František 1851, Václav 1854 | fara Bělčice [M] |
+| Podruhlí | čp. 11 | 1839–1851 | Vojtěch Mrvík, domkář (příbuzný?) | [M] |
+| Podruhlí | čp. 27 | před 1883 – 1908 | Antonín Kříž (1. manžel Barbory); od 1883 Václav Mrvík; 1884 narozen Václav ml. | [M] |
+| Podruhlí | čp. 7 | 1884 | František Mrvík, domkář (bratr Václava st.?) | [M] |
+| Chobot | — / čp. 8 | 1. pol. 19. st. | Matěj Pirhansl, krejčí; Kateřina Zelenková | fara Černívsko [M] |
+| Ostrov (u Březnice) | čp. 4 | 1845–1883 | Václav Lokaj, chalupník; Jakub Lokaj † před 1845 | fara Mišovice [M] |
+| Paračov | — | 1. pol. 19. st. | Martin Suchý, domkář | [M] |
+| Hošovice (Hostišovice) | čp. 16 | 1845 – 1908 | Matěj → Martin → Václav Hupák, domkáři | fara Černívsko, 3 generace v domě [M] |
+| Hošovice | čp. 22 | 1845, 1880 | Barbora Kočovská, podruhyně | [M] |
+| Újezdec (u Bělčic) | čp. 36 | před 1856 – 1880 | Jakub a František Vavřík, kováři (kovárna) | fara Bělčice [M] |
+| Koupě | čp. 3 | 1856 | Václav Kozel, chalupník | [M] |
+| Koupě | čp. 51 | 1871 – 1910 | Josef Tintěra (čeledín v panském dvoře Březnice) a Anna Kozlová; od 1908 Mrvíkovi; 1909 Marie, 1910 dědeček Josef | [M] |
+| Koupě | čp. 54 | před 1871 | Šimon Tintěra, řezník | [M] |
+| Březnice | čp. 1 (panský dvůr) | 1871 | Josef Tintěra, čeledín | panství Březnice [M] |
+| Bor, Nová Hospoda (okr. Tachov) | — | po 1945 – 1976 | dědeček Josef Mrvík s rodinou | dosídlené pohraničí [R] |
+| Lehôtka pod Brehmi (Apáthegyalja, Tekov) | — | 1912 | babička Anna Kicková | fara Horné Opatovce [R] |
+| Bechlín (u Roudnice) | — | 2002 | babička Anna, u příbuzných Snopových | [R] |
+
+### Maminčina strana – Strakonicko a Písecko, fary Radomyšl, Doubravice, Čížová
+| Místo | Dům | Kdy (doloženo) | Kdo | Pozn. |
+|---|---|---|---|---|
+| Leskovice (u Radomyšle) | čp. 10 | před 1891 | Václav Křivanec, sedlák (statek) | fara Radomyšl [M] |
+| Leskovice | čp. 32 | 1891 – 1945 | Václav Křivanec, chalupník → Josef Křivanec, kovář; 1917 narozen dědeček Josef | [M] |
+| Nahošín | čp. 5 | před 1891 | Barbora Finková | [M] |
+| Doubravice (u Strakonic) | čp. 60 | 1891, 1892 | Josef Varous, sedlák | fara Doubravice [M] |
+| Mečichov | čp. 26 | před 1891 | Marie (Antonie?) Švehlová | [M] |
+| Petrovice (u Radomyšle) | — | před 1947 | dědeček Josef Křivanec bydlel | [R] |
+| Chrášťovice | čp. 30, 37, 68 | 1870 – 1917 | Jan Čapek, domkář; Anna Čapková; František Liška, nádeník | fara Radomyšl [M] |
+| Láz | čp. 22 | před 1894 | Josefa Duchoslavová | [M] |
+| Sedlice (u Blatné) | čp. 78 | 1872 | Matěj Liška, obecní sluha; Anna Lišková | [M] |
+| Brloh – Nedílná | čp. 22, 37 | před 1893 – 1947 | Josef Jačka st., chalupník (22); Josef Jačka, domkář (37); Jan Jačka; 1925 babička Marie | fara Čížová [M] |
+| Malá Turná | čp. 2 | před 1893 | Václav Matoušek, sedlák; Anna Houdková z Domanic 16 | fara Radomyšl [M] |
+| Třepkov | čp. 5, 15, 18 | 1868 – 1899 | Rataj (domkář), Sichrovský (kolář) | fara Čížová [M] |
+| Čížová | čp. 3 | před 1868 | Josef Sichrovský, kolář | [M] |
+| Mlaka | čp. 21, 26 | před 1864 – 1921 | Kříž → Cvrček, chalupníci | fara Čížová [M] |
+| Pamětice, Borečnice, Brloh | — | 1. pol. 19. st. | Bartasová, Schránilová, Voldánová | [M, ?] |
+| Nový Jičín (Morava) | — | 1899 | Josef Sichrovský, profesor | [M] |
+| Damnov čp. 10 (u Plané, okr. Tachov) | čp. 10 | 1947 – 1980 | Křivancovi (i rodiče Josef a Anežka) | dosídlené pohraničí [M, R] |
+
+### Události, které stojí za dohledání (pro konkrétní místa a roky)
+- **1845–1848**: Martin Hupák vysloužilý voják – kde sloužil 35. pěší pluk? (vojenské kmenové listy, VÚA Praha)
+- **1848**: zrušení roboty – panství Blatná, Březnice, Bělčice: co to znamenalo pro domkáře v Podruhlí a Hošovicích
+- **1866**: prusko-rakouská válka, cholera – zemřelí v Bělčicích, Černívsku, Čížové 1866
+- **1880–1883**: záložníci Václav Hupák (1. pluk zákopníků) a Václav Mrvík (18. prapor myslivců) – kmenové listy
+- **Panský dvůr Březnice** (Josef Tintěra, čeledín 1871) – velkostatek Březnice, SOA Praha / Třeboň
+- **1914–1918**: pradědeček Josef Křivanec (* 1891) a Jan Jačka (* 1893) – v odvodním věku: sloužili ve válce? (kmenové listy)
+- **1917**: svatba Křivanců uprostřed války – rekvizice, nouze na Strakonicku
+- **1921**: Jan Jačka zednickým pomocníkem – stavební práce po válce, pozemková reforma (velkostatky Čížová/Drhovle?)
+- **1945–1947**: odchod Mrvíků do Boru a Křivanců do Damnova – osidlovací komise, přídělové listiny (SOkA Tachov)
+- **1949–1950s**: JZD v Damnově a Boru – kronika obce
+- **Lehôtka pod Brehmi 1912–1930s**: proč babička Anna odešla do Čech (práce? sezónní práce na statcích?)
+
