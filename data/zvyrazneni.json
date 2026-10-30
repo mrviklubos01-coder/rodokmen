@@ -118,5 +118,17 @@
   ],
   "status": "ok",
   "note": "Zápis č. 8 – křest Václava Hupáka."
+ },
+ "misovice_krest_barbora_lokajova_1845": {
+  "boxes": [
+   [
+    0.0,
+    0.42,
+    1.0,
+    0.62
+   ]
+  ],
+  "status": "ok",
+  "note": "Zápis Barbory Lokajové (27. 10. 1845) s okrajovou poznámkou o sňatku 1883."
  }
 }
