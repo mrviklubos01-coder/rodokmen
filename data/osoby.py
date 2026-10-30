@@ -67,10 +67,10 @@ P = {
              note="Otec Anny (35) podle křtu vnučky 1845; spojení s rodokmenem pravděpodobné (viz 8)."),
     71: dict(n="Kateřina Krčmářová (?)", y="– před 1845", st="prob", f=["z Lašovic (?)", "† před 1845"], r=["misovice_krest_barbora_lokajova_1845"],
              note="Matka Anny (35) podle křtu vnučky 1845; příjmení i místo čteny nejistě."),
-    36: dict(n="Martin Hupák", y="", st="prob", f=["domkář v Hošovicích čp. 16"], r=["cernivsko_krest_vaclav_hupak_1854", "belcice_snatek_vaclav_hupak_1880", "cernivsko_krest_marie_hupakova_1885"],
+    36: dict(n="Martin Hupák", y="* asi 1812", st="prob", f=["* asi 1812", "vysloužilý voják 35. pěšího pluku (1845)", "× 17. 11. 1845 Černívsko, Barbora Kočovská", "domkář v Hošovicích čp. 16"], r=["cernivsko_snatek_martin_hupak_1845", "cernivsko_krest_vaclav_hupak_1854", "belcice_snatek_vaclav_hupak_1880", "cernivsko_krest_marie_hupakova_1885"],
              note="Otec Václava Hupáka (18) podle zápisu o křtu vnučky 1885; spojení s rodokmenem pravděpodobné (viz 8)."),
-    37: dict(n="Barbora (Marie?) Kočovská / Kočková (?)", y="", st="prob", f=["z Hošovic čp. 22 (1880) / čp. 30 (1854)"], r=["cernivsko_krest_vaclav_hupak_1854", "belcice_snatek_vaclav_hupak_1880", "cernivsko_krest_marie_hupakova_1885"],
-             note="Matka Václava Hupáka (18). Rozpor: křest syna 1854 – „Marie, dcera Jana Kočky (?), domkáře z Hošovic č. 30“; sňatek syna 1880 – „Barbora rodem Kočovská z Hošovic č. 22“; křest vnučky 1885 – příjmení přeškrtané a opravené. Křestní jméno i příjmení nejisté."),
+    37: dict(n="Barbora Kočovská", y="* asi 1810", st="prob", f=["* asi 1810", "podruhyně v Hošovicích čp. 22 (1845)", "× 17. 11. 1845 Černívsko, Martin Hupák"], r=["cernivsko_snatek_martin_hupak_1845", "cernivsko_krest_vaclav_hupak_1854", "belcice_snatek_vaclav_hupak_1880", "cernivsko_krest_marie_hupakova_1885"],
+             note="Matka Václava Hupáka (18) podle sňatku syna 1880; sňatek s Martinem 1845 doložen. Rozpor: zápis o křtu Václava 1854 uvádí matku jako „Marii, dceru Jana Š[kách]y (?), domkáře z Hošovic č. 30, a Marie roz. Šimůnkové“ – to je jiná rodina (Marie Škáchová, dcera Jana Škáchy z Hošovic 30, se 1848 vdala za jiného muže). Nejspíš omyl písaře v roce 1854 – viz ISSUES."),
     38: dict(n="František Vavřík", y="", st="prob", f=["kovář v Újezdci čp. 36"], r=["belcice_krest_marie_vavrikova_1856", "belcice_snatek_vaclav_hupak_1880"],
              note="Otec Marie (19) podle jejího křtu 1856 i sňatku 1880. Pozdější zápisy (1885, 1908) uvádějí jako otce Josefa Tintěru – nejspíš nevlastní otec, viz SIDE."),
     39: dict(n="Anna Kozlová", y="", st="prob", f=["z Koupě čp. 3"], r=["belcice_krest_marie_vavrikova_1856", "belcice_snatek_vaclav_hupak_1880", "cernivsko_krest_marie_hupakova_1885"],
@@ -80,17 +80,17 @@ P = {
     77: dict(n="Barbora Maštalířová", y="", st="prob", f=["z Újezdce čp. 27"], r=["belcice_krest_marie_vavrikova_1856"],
              note="Matka Františka (38) podle křtu vnučky 1856; spojení s rodokmenem pravděpodobné (viz 8)."),
     78: dict(n="Václav Kozel", y="", st="prob", f=["chalupník v Koupi čp. 3"], r=["belcice_krest_marie_vavrikova_1856"],
-             note="Otec Anny (39) podle křtu vnučky 1856; příjmení napsáno nezřetelně (Kozel / Korel?), sňatek 1880 má „Kozlová“."),
+             note="Otec Anny (39) podle křtu vnučky 1856; „Kozel“ potvrzuje i sňatek jeho syna Josefa 1849 (Černívsko, kniha 7, sn. 16)."),
     79: dict(n="Anna Hudečková (?)", y="", st="prob", f=["z Volenic"], r=["belcice_krest_marie_vavrikova_1856"],
-             note="Matka Anny (39) podle křtu vnučky 1856; příjmení čteno nejistě."),
+             note="Matka Anny (39) podle křtu vnučky 1856 a sňatku syna Josefa 1849 („Anna rozená Hudeček z Volenic N. 15“)."),
     72: dict(n="Matěj Hupák", y="", st="prob", f=["domkář v Hošovicích čp. 16"], r=["cernivsko_krest_vaclav_hupak_1854"],
              note="Otec Martina (36) podle křtu vnuka 1854; spojení s rodokmenem pravděpodobné (viz 8)."),
     73: dict(n="Kateřina Zelenková", y="", st="prob", f=["z Chobota čp. 8"], r=["cernivsko_krest_vaclav_hupak_1854"],
              note="Matka Martina (36) podle křtu vnuka 1854; spojení s rodokmenem pravděpodobné (viz 8)."),
-    74: dict(n="Jan Kočka (?)", y="", st="prob", f=["domkář v Hošovicích čp. 30"], r=["cernivsko_krest_vaclav_hupak_1854"],
-             note="Otec matky Václava Hupáka (37) podle křtu 1854; příjmení čteno nejistě."),
-    75: dict(n="Marie Šimůnková (?)", y="", st="prob", f=["z Hošovic čp. 11"], r=["cernivsko_krest_vaclav_hupak_1854"],
-             note="Matka (37) podle křtu vnuka 1854; příjmení čteno nejistě."),
+    74: dict(n="František Kočovský", y="– před 1845", st="prob", f=["krejčí (?) z Kraupic (?) čp. 6", "† před 1845"], r=["cernivsko_snatek_martin_hupak_1845"],
+             note="Otec Barbory (37) podle jejího sňatku 1845; řemeslo a místo čteny nejistě."),
+    75: dict(n="Anna Černá (?)", y="", st="prob", f=["z Kraupic (?)"], r=["cernivsko_snatek_martin_hupak_1845"],
+             note="Matka Barbory (37) podle jejího sňatku 1845; příjmení čteno nejistě."),
     64: dict(n="Jakub Mrvík", y="", st="prob", f=["tesař v Uzenicích čp. 1"], r=["belcice_krest_vaclav_mrvik_1854"],
              note="Otec Václava (32) podle zápisu o křtu vnuka 1854; spojení s rodokmenem pravděpodobné (viz 8)."),
     65: dict(n="Dorota Labská", y="", st="prob", f=["z Koupě"], r=["belcice_krest_vaclav_mrvik_1854"],
@@ -111,6 +111,7 @@ LINES = {
 # Příbuzní mimo přímou linii (sourozenci, strýcové…): k = číslo předka, ke kterému patří.
 # dict(k=16, n="Josef Novák (1865–1920)", t="Bratr Jana. Kovář v …", r=["klic_zapisu"])
 SIDE = [
+    dict(k=39, n="Josef Kozel (* asi 1823)", t="Bratr Anny Kozlové (39): chalupník v Koupi čp. 3, syn Václava Kozla, chalupníka tamtéž, a Anny roz. Hudečkové z Volenic čp. 15; 30. 1. 1849 se oženil v Černívsku (oddíl Uzenice). Potvrzuje rodiče Anny.", r=[]),
     dict(k=19, n="Josef Tintěra (* asi 1830) a Anna Kozlová (* asi 1838)", t="Josef, čeledín v panském dvoře v Březnici, syn řezníka Šimona Tintěry z Koupě čp. 54; 1. 5. 1871 si vzal svobodnou Annu Kozlovou, dceru domkáře Martina Kozla z Koupě čp. 51. Při křtu Marie Hupákové 1885 a sňatku 1908 jsou uvedeni jako rodiče její matky Marie (a Josef byl 1885 kmotr), jenže Marie (* 1856) byla podle křtu i sňatku dcerou kováře Františka Vavříka a jiné Anny Kozlové (dcery Václava Kozla z Koupě čp. 3). Vztah zatím nevysvětlen – možná pěstouni nebo příbuzní. Do jejich domu čp. 51 se 1908 nastěhovali Mrvíkovi.", r=["belcice_snatek_josef_tintera_1871", "cernivsko_krest_marie_hupakova_1885"]),
     dict(k=32, n="Vojtěch Mrvík", t="Domkář v Podruhlí čp. 11, děti 1839–1847 (Marie, Anna, Anděla). Ve stejném domě se 1851 narodil syn Václava Mrvíka (32) František. Možná Václavův bratr – neověřeno."),
     dict(k=16, n="Anna a František Mrvíkovi", t="Sourozenci Václava (16): Anna * 11. 10. 1849 Podruhlí čp. 12, František * 9. 5. 1851 Podruhlí čp. 11 (podle rejstříku narozených Bělčice)."),
@@ -122,6 +123,7 @@ SIDE = [
 # „Vyřešeno: …“ (na webu se skryje), „Hypotéza: …“ nebo „Otevřené: …“. Jde na web – nic citlivého.
 # ("Kdy se narodil Jan Novák?", "Otevřené: rodina říká 1850, v Holicích 1848–1852 nenalezen.")
 ISSUES = [
+    ("Kdo byla matka Václava Hupáka (* 1854)?", "Hypotéza: Barbora Kočovská (sňatek s Martinem Hupákem 1845, sňatek syna 1880). Zápis o křtu 1854 má jako matku Marii, dceru Jana Škáchy z Hošovic 30 – nejspíš omyl písaře (Škáchovi byli sousedé)."),
     ("Kdo byl otcem Marie, provdané Hupákové (* 1856)?", "Vyřešeno: František Vavřík, kovář z Újezdce čp. 36 (křest 1856 i sňatek 1880)."),
     ("Proč zápisy 1885 a 1908 uvádějí jako rodiče Marie Hupákové roz. Vavříkové Josefa Tintěru a Annu Kozlovou z Koupě čp. 51?", "Otevřené: Josef Tintěra se 1871 oženil se svobodnou Annou Kozlovou, dcerou Martina Kozla z Koupě 51 – jiná žena než Mariina matka (dcera Václava Kozla z Koupě 3). Možná Marii vychovali (příbuzní její matky?). Ověřit úmrtí Františka Vavříka a Anny Vavříkové (Bělčice, zemřelí)."),
     ("Kde se narodil Josef Mrvík (1910)?", "Vyřešeno: Koupě čp. 51, fara Bělčice (rejstřík narozených). Celý zápis s rodiči je v knize narozených, která zatím není online."),
