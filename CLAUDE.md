@@ -13,3 +13,7 @@ Tohle je projekt rodokmenu vedený skillem **rodokmen**. Na začátku každé ko
   Vše podstatné (výřezy, přepisy, deník) musí skončit v `data/`, `vyrezy/`, `zdroje/`.
 - ImageMagick je tu verze 6 (`convert`), nástroje ji použijí samy.
 - Náhled webu (localhost) uživatel nevidí – posílej snímky stránek z headless prohlížeče.
+
+## Přání uživatele
+- Každý nález zapisuj i do `data/podklady_pribeh.md` (věk snoubenců, dny svatba→narození, nemanželské děti, vojna, řemesla,
+  domy, kmotři, rozpory, historické souvislosti). Uživatel z toho chce napsat rodinný příběh na pozadí dějin.

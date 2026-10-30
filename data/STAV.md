@@ -32,6 +32,7 @@ pak konec `research_log.md` a sekci „Rozpracováno“.
 4. Nejistá čtení označím (?) – nic nedomýšlím.
 5. Ke každému novému zápisu: výřez (`tools/vyrez.py`), rámeček (`tools/ramecek.py`) a přepis s překladem.
 6. Po změně dat spustím `python3 -I tools/kontrola.py`.
+7. **Přání uživatele (30. 10. 2026):** ke každému nálezu zapsat do `data/podklady_pribeh.md` všechny lidské detaily (věk snoubenců, dny od svatby do narození, nemanželské děti a legitimace, vojna, řemesla, domy, kmotři, svědci, rozpory) a doplnit časovou osu s historickým pozadím. Z toho bude rodinný příběh – psát až po dohledání, koncept nejdřív do chatu.
 
 ## Rozpracováno (aktualizovat průběžně)
 - **30. 10. 2026 (večer):** matčina linie doložena do pradědečků a částečně dál (Křivanec, Lišková, Jačka, Cvrčková + jejich rodiče). Otevřené: sňatek Josef Jačka × Terezie Matoušková (před 1884 nebo Radomyšl), Václav Křivanec × Anna Varousová (fara Doubravice, knihy 8684/8685). Náhled webu aktualizován (snímky v `nahled/`, mimo git).
