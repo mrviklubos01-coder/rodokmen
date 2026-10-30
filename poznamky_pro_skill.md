@@ -13,3 +13,6 @@ zapracuje do skillu, aby je měli i ostatní. Děkujeme!
   skriptem omylem smazala osoby mezi nimi. Pomohl by nástroj `osoba.py <číslo> <vstup>` (jako zapis.py) pro změnu jedné osoby.
 - SOA Třeboň: některé snímky (Radomyšl 18A, sn. 143) mají v místě zápisu překrytý řádek – přeložený/přilepený papír v knize, ne chyba nástroje
   (stejné i v náhledu). Stojí za to v návodu zmínit, ať se to nepovažuje za chybu stahování.
+- Slovensko: státní archivy (např. ŠA Banská Bystrica, pracoviště Kremnica) mají civilní matriky jen ~1895–1906 (druhopisy); novější originály
+  zůstávají na matričních úřadech. FamilySearch má farní knihy do ~1923 (vyžaduje přihlášení – musí otevírat uživatel). V cloudu je blokovaný
+  portál slovensko.sk (vyhledání matričního úřadu).

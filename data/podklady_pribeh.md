@@ -187,3 +187,13 @@ kroniky obcí, Státní okresní archivy Strakonice, Písek, Příbram, Tachov).
 - **1949–1950s**: JZD v Damnově a Boru – kronika obce
 - **Lehôtka pod Brehmi 1912–1930s**: proč babička Anna odešla do Čech (práce? sezónní práce na statcích?)
 
+### Lehôtka pod Brehmi – rodná obec babičky Anny Kickové (z historie obce, e-obce.sk / kniha H. Žňavové)
+[H, zdroj: e-obce.sk – Lehôtka pod Brehmi, História; uživatel stránku uložil 31. 10. 2026]
+- 1892–1913 úředně maďarsky **Apáthegyalja**; obyvatel 1900: 345, **1910: 434**, 1921: 416.
+- Lidé bez půdy chodili na **sezónní práce na velkostatky jižního Slovenska a na Dolní zem** (do 1. sv. války hlavně **Csanádská župa** v dnešním Maďarsku) – celé rodiny, spali v humnech a stájích. Část pracovala na **železnici Levice–Zvolen** (dokončena 1896).
+- **1912**: obec se rozhodla postavit vlastní kostel (základy srpen 1912, hotov listopad 1913) – **babička Anna se narodila v září 1912, tedy právě když se kostel začal stavět**; pokřtěna byla ještě ve farnosti Horné Opatovce.
+- **1914–1918**: mobilizace mužů 18–50 let, zabrané dva zvony, rekvizice dobytka a obilí, sucha a tuhé zimy. **Na frontách padli mj. Laurinec Kicko a Mikuláš Kicko** – stejné příjmení jako babička (Kicko/Kicková)! Mohl to být její otec, strýc nebo dědeček – **ověřit** (babičce bylo v roce 1914 dva roky).
+- Kolem **1923 odcházeli lidé do Francie, Belgie**, méně do Jižní Ameriky a Kanady; do 1930 se vystěhovalo téměř 12 % obyvatel.
+- **1939–1944**: 28 občanů odešlo na práce do Německa a **do Protektorátu Čechy a Morava** (muži do továren, ženy na zemědělské práce) – možná souvislost s tím, jak se babička dostala do Čech (ověřit).
+- 1951–1953 hliníkárna v Žiaru n. H.; exhaláty → otrava dobytka fluorem; **od 1961 byla obec Horné Opatovce (sídlo fary) vystěhována a zanikla** – farní písemnosti tedy mohly být přesunuty (fara Žiar n. H.? archiv biskupství Banská Bystrica?).
+
