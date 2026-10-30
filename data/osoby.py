@@ -31,7 +31,7 @@ P = {
             note="Matka Jana Mrvíka (2), provdaná Mrvíková. Od rodiny (uživatel, 29. 10. 2026). Zemřela u příbuzných Snopových v Bechlíně. Rodná obec patřila k farnosti Horné Opatovce (maďarsky obec 1892–1913 Apáthegyalja)."),
     6: dict(n="Josef Křivanec", y="1917–1980", st="doc", f=["* 19. 11. 1917 Leskovice čp. 32 (okr. Strakonice, fara Radomyšl)", "majitel hospodářství v Damnově čp. 10 (1947)", "× 12. 4. 1947 Čížová, Marie Jačková", "† 1980", "pohřben v Damnově (okr. Tachov)"],
             r=["cizova_snatek_josef_krivanec_1947"],
-            note="Otec Marie Křivancové (3). Narození a rodiče podle zápisu o sňatku 1947 (doloženo); úmrtí a hrob od rodiny. Rodina myslela, že se narodil v Petrovicích – zápis uvádí Leskovice."),
+            note="Otec Marie Křivancové (3). Narození a rodiče podle zápisu o sňatku 1947 (doloženo); úmrtí a hrob od rodiny. Rodina uvádí Petrovice (bydliště) – zápis uvádí narození v Leskovicích; obě obce patří k faře Radomyšl."),
     7: dict(n="Marie Jačková", y="1925–2005", st="doc", f=["* 29. 9. 1925 Brloh-Nedílná čp. 37 (okr. Písek, fara Čížová)", "× 12. 4. 1947 Čížová, Josef Křivanec", "† 10/2005"],
             r=["cizova_snatek_josef_krivanec_1947"],
             note="Matka Marie Křivancové (3). Narození a rodiče podle zápisu o sňatku 1947 (doloženo); úmrtí od rodiny."),
