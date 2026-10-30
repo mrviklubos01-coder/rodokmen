@@ -154,5 +154,17 @@
   ],
   "status": "ok",
   "note": "Zápis č. 5 – sňatek Josefa Křivance a Marie Jačkové (obě strany knihy)."
+ },
+ "cizova_snatek_jan_jacka_1921": {
+  "boxes": [
+   [
+    0.0,
+    0.745,
+    1.0,
+    0.955
+   ]
+  ],
+  "status": "ok",
+  "note": "Zápis č. 22 – sňatek Jana Jačky a Jany Cvrčkové."
  }
 }
