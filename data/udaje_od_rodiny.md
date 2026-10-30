@@ -25,3 +25,4 @@ Co víme z vyprávění a rodinných dokumentů – kdo to řekl / odkud to je a
 - 30. 10. 2026: Babička **Marie Křivancová roz. Jačková**, * 29. 9. 1925, narození „zřejmě Brloh nebo Nedílná – říkají tomu Nedílná, ale je to Brloh, okres Strakonice“; † říjen 2005.
 - Dědeček **Josef Křivanec**, * 1917, bydlel v obci Petrovice, „zřejmě se tam i narodil“; jižní Čechy, okres Strakonice nebo Písek.
 - Pozn. (z matriky 1947): Josef Křivanec se podle zápisu o sňatku narodil v **Leskovicích** čp. 32 (okr. Strakonice), ne v Petrovicích.
+- 31. 10. 2026: Babička Anna Kicková měla bratra **Štefana Kicka**, „spíše mladšího“ (tedy narozen asi po 1912).

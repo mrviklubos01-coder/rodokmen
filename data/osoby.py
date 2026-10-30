@@ -163,6 +163,7 @@ LINES = {
 # Příbuzní mimo přímou linii (sourozenci, strýcové…): k = číslo předka, ke kterému patří.
 # dict(k=16, n="Josef Novák (1865–1920)", t="Bratr Jana. Kovář v …", r=["klic_zapisu"])
 SIDE = [
+    dict(k=5, n="Štefan Kicko", t="Bratr babičky Anny, podle rodiny spíše mladší (tedy narozen asi po 1912). Od rodiny, zatím neověřeno v matrice."),
     dict(k=31, n="Josef Sichrovský", t="Profesor v Novém Jičíně na Moravě; 1899 kmotr Jany Cvrčkové – nejspíš bratr její matky Johanny.", r=["cizova_krest_jana_cvrckova_1899"]),
     dict(k=39, n="Josef Kozel (* asi 1823)", t="Bratr Anny Kozlové (39): chalupník v Koupi čp. 3, syn Václava Kozla, chalupníka tamtéž, a Anny roz. Hudečkové z Volenic čp. 15; 30. 1. 1849 se oženil v Černívsku (oddíl Uzenice). Potvrzuje rodiče Anny.", r=[]),
     dict(k=19, n="Josef Tintěra (* asi 1830) a Anna Kozlová (* asi 1838)", t="Josef, čeledín v panském dvoře v Březnici, syn řezníka Šimona Tintěry z Koupě čp. 54; 1. 5. 1871 si vzal svobodnou Annu Kozlovou, dceru domkáře Martina Kozla z Koupě čp. 51. Při křtu Marie Hupákové 1885 a sňatku 1908 jsou uvedeni jako rodiče její matky Marie (a Josef byl 1885 kmotr), jenže Marie (* 1856) byla podle křtu i sňatku dcerou kováře Františka Vavříka a jiné Anny Kozlové (dcery Václava Kozla z Koupě čp. 3). Vztah zatím nevysvětlen – možná pěstouni nebo příbuzní. Do jejich domu čp. 51 se 1908 nastěhovali Mrvíkovi.", r=["belcice_snatek_josef_tintera_1871", "cernivsko_krest_marie_hupakova_1885"]),

@@ -113,7 +113,8 @@ Značky: **[M]** = přečteno v matrice, **[R]** = od rodiny, **[O]** = odvozeno
 
 ### Babička Anna Kicková (Slovensko)
 - * 24. 9. 1912 Lehôtka pod Brehmi (maďarsky Apáthegyalja, farnost Horné Opatovce), Tekovská stolice [R, M-katalog].
-- Zemřela 2002 v Bechlíně u příbuzných Snopových [R]. Jak se dostala do Čech a k dědečkovi – zjistit od rodiny.
+- Zemřela 2002 v Bechlíně u příbuzných Snopových [R].
+- Měla bratra **Štefana Kicka**, spíše mladšího [R, 31. 10. 2026]. Jak se dostala do Čech a k dědečkovi – zjistit od rodiny.
 
 ---
 
