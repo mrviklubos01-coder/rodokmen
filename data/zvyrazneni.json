@@ -178,5 +178,29 @@
   ],
   "status": "ok",
   "note": "Třetí zápis – sňatek Josefa Křivance a Anežky Liškové (1917); jeden řádek překrytý přeloženým papírem."
+ },
+ "cizova_krest_jan_jacka_1893": {
+  "boxes": [
+   [
+    0.0,
+    0.55,
+    1.0,
+    0.73
+   ]
+  ],
+  "status": "ok",
+  "note": "Zápis z 1. 1. 1893 – Jan Jačka; okrajová poznámka o sňatku 1921."
+ },
+ "cizova_krest_jana_cvrckova_1899": {
+  "boxes": [
+   [
+    0.0,
+    0.25,
+    1.0,
+    0.48
+   ]
+  ],
+  "status": "ok",
+  "note": "Zápis č. 42 – Johanna (Jana) Julie Cvrčková; okrajová poznámka o sňatku 1921."
  }
 }
