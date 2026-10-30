@@ -28,7 +28,7 @@ P = {
             r=["belcice_index_josef_mrvik_1910"],
             note="Otec Jana Mrvíka (2). Narození doloženo rejstříkem narozených fary Bělčice (datum souhlasí s údajem rodiny); samotná kniha narozených po 1903 zatím není online, jména rodičů proto zatím neznámá. Úmrtí a hrob od rodiny. Nejdřív uveden jako „Jan“, pak opraven na Josef."),
     5: dict(n="Anna Kicková", y="1912–2002", st="fam", f=["* 24. 9. 1912 Lehôtka pod Brehmi (Slovensko)", "žila v Boru a na Nové Hospodě (okr. Tachov)", "† 25. 2. 2002 Bechlín (okr. Litoměřice)", "pohřbena v Bechlíně u Roudnice nad Labem"],
-            note="Matka Jana Mrvíka (2), provdaná Mrvíková. Od rodiny (uživatel, 29. 10. 2026). Zemřela u příbuzných Snopových v Bechlíně."),
+            note="Matka Jana Mrvíka (2), provdaná Mrvíková. Od rodiny (uživatel, 29. 10. 2026). Zemřela u příbuzných Snopových v Bechlíně. Rodná obec patřila k farnosti Horné Opatovce (maďarsky obec 1892–1913 Apáthegyalja)."),
     6: dict(n="Josef Křivanec", y="asi 1920–1980", st="fam", f=["* asi 1920", "† 1980", "pohřben v Damnově (okr. Tachov)"],
             note="Otec Marie Křivancové (3). Od rodiny (uživatel, 29. 10. 2026); roky a místa zatím neznámé."),
     7: dict(n="Marie Jačková", y="", st="fam", f=[],
