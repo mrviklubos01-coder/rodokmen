@@ -86,3 +86,17 @@ jen že to stojí na jednom zdroji, na nejistém čtení nebo na odhadu. Doplňu
 9. Vojenská služba předků (kmenové listy ve Vojenském ústředním archivu): Martin Hupák, Václav Hupák, Václav Mrvík, Josef Křivanec (1891), Jan Jačka (1893), Josef Mrvík (1910).
 10. Rodinné vzpomínky, fotky, doklady (domovské listy, výuční listy, pracovní knížky).
 
+## 7. Slovenská větev – Anna Kicková (* 24. 9. 1912) – další možné zdroje
+| Zdroj | Co může dát | Kde | Poznámka |
+|---|---|---|---|
+| Farní matrika Horné Opatovce, křty 1886–1923 | rodiče, kmotři, číslo domu | FamilySearch DGS 5014233, Item 3 (vyžaduje přihlášení – otevírá uživatel) | nejjistější cesta |
+| **Státní (civilní) matrika** obce/notářství od 1895 (maďarsky, „állami anyakönyv“) | druhý zápis narození 1912 | ŠA Banská Bystrica (pracoviště Žiar n. H. / Kremnica), částečně FamilySearch | rok 1912 už je přes 100 let – mělo by být přístupné; ověřit, zda je naskenováno |
+| Matriční úřad obce (dnes Lehôtka pod Brehmi / Horné Opatovce) | výpis z matriky narození | písemně, jako vnuk | nejrychlejší úřední cesta |
+| Sčítání lidu 1869 (Tekovská župa) | prarodiče/praprarodiče v domě | FamilySearch (katalog „súpis obyvateľstva 1869“, DGS 7721961) | jen pro starší generace |
+| Sčítání 1921 a 1930 (ČSR) | rodina Kickových v Lehôtce | ŠA Banská Bystrica | po roce 1918 česko-slovensky |
+| Kniha **„Lehôtka pod Brehmi 1391–2001“** (Helena Žňavová) | dějiny obce, rody, události 1900–1945 | obecní úřad / knihovna | uvedeno na e-obce.sk |
+| Obecní kronika (na Slovensku povinně od 1933) a farní kronika (Historia domus) | události v obci, válka 1914–18, vystěhovalectví | obecní úřad, fara Horné Opatovce | většinou neonline |
+| Noviny (maďarské před 1918 – Arcanum; slovenské – Kramerius SNK, digitalnakniznica.sk) | události v kraji | online | většinou jen pozadí |
+| **Česká strana**: oddací list babičky a dědečka, domovský list, sčítání 1950, přihlášky k pobytu | její rodiče, kdy přišla do Čech | matrika místa sňatku, SOkA Tachov | často obsahuje i slovenské údaje |
+| Příbuzní Snopovi (Bechlín) | rodinné vyprávění, doklady | rodina | |
+
