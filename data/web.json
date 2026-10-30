@@ -1,19 +1,29 @@
 {
  "nazev": "Rodokmen Mrvíkových",
- "popis": "",
+ "popis": "Předci Luboše Mrvíka z matrik Blatenska, Březnicka a Tachovska",
  "zapati": "Dohledáno v digitalizovaných matrikách státních oblastních archivů",
- "kontakt": {"jmeno": "", "email": ""},
+ "kontakt": {
+  "jmeno": "",
+  "email": ""
+ },
  "prihlaseni": {
   "uvod": "Tenhle web je jen pro rodinu a příbuzné.",
   "otazka": "",
   "odpoved": ""
  },
  "uvod": {
-  "nadpis": "",
-  "odstavce": [],
+  "nadpis": "Odkud jsou Mrvíkovi",
+  "odstavce": [
+   "Dědeček Josef Mrvík se narodil roku 1910 v Koupi u Březnice a po válce odešel na Tachovsko, do Boru. Jeho předkové byli domkáři, chalupníci, tesař i kovář z vesnic kolem Bělčic na Blatensku – Podruhlí, Koupě, Hošovic a Újezdce.",
+   "Rodokmen je zatím rozpracovaný: otcova linie sahá do začátku 19. století, slovenská větev babičky Anny Kickové a rod maminky (Křivancovi) se teprve začínají hledat."
+  ],
   "foto": "",
   "foto_popis": ""
  },
- "pribeh": {"menu": "", "rod": 8, "tlacitko": ""},
+ "pribeh": {
+  "menu": "",
+  "rod": 8,
+  "tlacitko": ""
+ },
  "zajimavosti_na_uvodu": []
 }

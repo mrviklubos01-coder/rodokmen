@@ -1,1 +1,72 @@
-{}
+{
+ "Koupě": {
+  "re": "Koupě",
+  "dotaz": "Koupě, Česko",
+  "lat": 49.5147,
+  "lon": 13.9184,
+  "osm": "Koupě, okres Příbram, Středočeský kraj, Česko"
+ },
+ "Podruhlí": {
+  "re": "Podru",
+  "dotaz": "Podruhlí, Česko",
+  "lat": 49.4984,
+  "lon": 13.9078,
+  "osm": "Podruhlí, Bělčice, okres Strakonice, Jihočeský kraj, Jihozápad, Česko"
+ },
+ "Bělčice": {
+  "re": "Bělči",
+  "dotaz": "Bělčice, Česko",
+  "lat": 49.5027,
+  "lon": 13.8758,
+  "osm": "Bělčice, okres Strakonice, Jihočeský kraj, Jihozápad, 387 43, Česko"
+ },
+ "Hostišovice": {
+  "re": "Hošov|Hostišov",
+  "dotaz": "Hostišovice, Česko",
+  "lat": 49.4911,
+  "lon": 13.9178,
+  "osm": "Hostišovice, Závišín, Bělčice, okres Strakonice, Jihočeský kraj, Jihozápad, Česko"
+ },
+ "Uzenice": {
+  "re": "Uzeni",
+  "dotaz": "Uzenice, Česko",
+  "lat": 49.4709,
+  "lon": 13.9531,
+  "osm": "Uzenice, okres Strakonice, Jihočeský kraj, Jihozápad, Česko"
+ },
+ "Chobot": {
+  "re": "Chobo",
+  "dotaz": "Chobot, Česko",
+  "lat": 49.4536,
+  "lon": 13.9259,
+  "osm": "Chobot, okres Strakonice, Jihočeský kraj, Jihozápad, Česko"
+ },
+ "Bor": {
+  "re": "Bor",
+  "dotaz": "Bor, Česko",
+  "lat": 49.7117,
+  "lon": 12.7752,
+  "osm": "Bor, okres Tachov, Plzeňský kraj, Jihozápad, 348 02, Česko"
+ },
+ "Újezdec": {
+  "re": "Újezd",
+  "dotaz": "Újezdec, Bělčice",
+  "lat": 49.5001,
+  "lon": 13.8327,
+  "osm": "Újezdec, Bělčice, okres Strakonice, Jihočeský kraj, Jihozápad, 387 42, Česko"
+ },
+ "Lehôtka pod Brehmi": {
+  "re": "Lehôtk",
+  "dotaz": "Lehôtka pod Brehmi, Slovensko",
+  "lat": 48.5428,
+  "lon": 18.8076,
+  "osm": "Lehôtka pod Brehmi, okres Žiar nad Hronom, Banskobystrický kraj, Slovensko"
+ },
+ "Bechlín": {
+  "re": "Bechl",
+  "dotaz": "Bechlín, Česko",
+  "lat": 50.4162,
+  "lon": 14.3407,
+  "osm": "Bechlín, okres Litoměřice, Ústecký kraj, 411 86, Česko"
+ }
+}
