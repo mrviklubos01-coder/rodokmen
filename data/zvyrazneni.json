@@ -250,5 +250,29 @@
   ],
   "status": "ok",
   "note": "Zápis č. 21 – sňatek Jana Cvrčka a Johanny Sichrovské."
+ },
+ "cizova_krest_jan_cvrcek_1864": {
+  "boxes": [
+   [
+    0.0,
+    0.39,
+    1.0,
+    0.66
+   ]
+  ],
+  "status": "ok",
+  "note": "Druhý zápis – Jan Cvrček, 2. 2. 1864."
+ },
+ "cizova_krest_johanna_sichrovska_1868": {
+  "boxes": [
+   [
+    0.0,
+    0.66,
+    1.0,
+    0.99
+   ]
+  ],
+  "status": "ok",
+  "note": "Poslední zápis – Johanna Sichrovská, 16. 5. 1868."
  }
 }

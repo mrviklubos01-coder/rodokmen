@@ -42,6 +42,8 @@ jen že to stojí na jednom zdroji, na nejistém čtení nebo na odhadu. Doplňu
 | František **Kočovský**, **krejčí (?)** z **Kraupic (?)**; Anna **Černá (?)** | řemeslo a místo nejisté | cernivsko_snatek_martin_hupak_1845 |
 | Anna **Kunclová (?)** z Třepkova 5 – babička Jana Jačky | nezřetelné | cizova_krest_jan_jacka_1893 |
 | Antonín **Kříž** – 1. manžel Barbory Lokajové | sňatek 1883 čitelně, křest 1884 nejistě | belcice_snatek_vaclav_mrvik_1883 |
+| Josef **Cvrček**, sedlák z **Černíkova (?)**; Anna **Líšalová (?)** z **Pražetic (?)** (tužkou „Drauschitz“) – prarodiče Jana Cvrčka (1864) | nezřetelné, místo nejisté | cizova_krest_jan_cvrcek_1864 |
+| Barbora **Bartasová (?)** z Pamětic; Anna **Schránilová (?)** z Borečnice – prarodiče Johanny Sichrovské | nezřetelné | cizova_krest_johanna_sichrovska_1868 |
 | Jména svědků a kmotrů (Převrátil, Lövovský, Rejnoha, Šimáček…) | často nejistá | jednotlivé zápisy |
 | Vojenské údaje (Martin Hupák „35. pěší pluk“, svědek František Křivanec „vrchní strážmistr SNB“) | část textu nejistá | cernivsko_snatek_martin_hupak_1845, cizova_snatek_josef_krivanec_1947 |
 | **Řádek s rodiči ženicha 1917** (Josef Křivanec) | zakryt přeloženým papírem; rodiče doplněni z křtu 1891 | radomysl_snatek_josef_krivanec_1917 |

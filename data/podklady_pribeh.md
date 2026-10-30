@@ -18,9 +18,9 @@ Značky: **[M]** = přečteno v matrice, **[R]** = od rodiny, **[O]** = odvozeno
 | 1848 | (asi) sňatek Václava Mrvíka a Marie Pirhanzlové – zatím nenalezen [O] | revoluční rok, zrušení roboty a poddanství |
 | 1854 | 26. 1. narozen Václav Mrvík v Podruhlí čp. 12; 13. 2. narozen Václav Hupák v Hošovicích čp. 16 [M] | — |
 | 1856 | 25. 1. narozena Marie Vavříková, dcera kováře v Újezdci [M] | — |
-| 1864 | 2. 2. narozen Jan Cvrček (Mlaka) [M] | — |
+| 1864 | 2. 2. narozen Jan Cvrček (Mlaka 21, dům dědečka Kříže) [M] | prusko-dánská válka |
 | 1866 | — | prusko-rakouská válka, cholera v Čechách |
-| 1868 | 16. 5. narozena Johanna Sichrovská (Třepkov) [M] | — |
+| 1868 | 16. 5. narozena Johanna Sichrovská, dcera koláře (Třepkov 18) [M] | — |
 | 1871 | sňatek Josefa Tintěry (41) a Anny Kozlové (33) v Bělčicích – Koupě čp. 51 [M] | — |
 | 1872 | 19. 5. narozen František Liška v Sedlici, nemanželský syn [M] | — |
 | 1880 | 21. 9. sňatek Václava Hupáka (26, záložník 1. pluku zákopníků) a Marie Vavříkové (24) [M] | — |
@@ -106,6 +106,10 @@ Značky: **[M]** = přečteno v matrice, **[R]** = od rodiny, **[O]** = odvozeno
 - **Jana Cvrčková, * 21. 5. 1899** – v matrice „Johanna Julie“; vdávala se v den 22. narozenin; zemřela před 1947 (babička Marie byla při svatbě už bez matky) [M].
 - **Josef Sichrovský** – profesor v Novém Jičíně na Moravě, kmotr Jany Cvrčkové 1899, nejspíš bratr její matky – venkovský kluk, který vystudoval [M].
 - **Matouškovi z Malé Turné čp. 2** – sedláci; Anna roz. Houdková z Domanic [M].
+
+- **Mlaka čp. 21 – dům Křížů, kam se přiženil Cvrček**: Jan Cvrček st. (syn sedláka odjinud, snad z Černíkova) si vzal Marii, dceru chalupníka Josefa Kříže z čp. 21, a převzal chalupu; z ní pak Jan ml. (1864) a Jana (1899) [M, cizova_krest_jan_cvrcek_1864].
+- **Kolářský rod Sichrovských**: Josef Sichrovský – kolář v Čížové čp. 3; syn Jan – kolář v Třepkově čp. 18 (1868), později „chalupník“ a „domkář“; dům čp. 18 původně domek Jakuba Rataje, otce jeho ženy – i on se přiženil [M, cizova_krest_johanna_sichrovska_1868]. Syn Josef Sichrovský vystudoval a byl profesorem v Novém Jičíně (1899) – z koláře profesor.
+- **Vzorec „přiženění“**: v maminčině rodu se muži opakovaně stěhovali do domu rodiny nevěsty (Cvrček na Mlaku 21, Sichrovský do Třepkova 18) – stejně jako v otcově rodu Václav Mrvík do Podruhlí 27 a Mrvíkovi do Koupě 51 [O].
 
 ### Babička Anna Kicková (Slovensko)
 - * 24. 9. 1912 Lehôtka pod Brehmi (maďarsky Apáthegyalja, farnost Horné Opatovce), Tekovská stolice [R, M-katalog].
