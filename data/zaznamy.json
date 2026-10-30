@@ -144,9 +144,9 @@
   "svazek": "trebon_11358",
   "snimek": 143,
   "druh": "O",
-  "datum": "2/1917",
+  "datum": "19. 2. 1917",
   "nazev": "Sňatek Josefa Křivance a Anežky Liškové",
-  "shrnuti": "Josef Křivanec, kovář v Leskovicích čp. 32 (26 let), si v únoru (?) 1917 vzal Anežku Liškovou (22 let), narozenou v Chrášťovicích čp. 30, legitimovanou dceru Františka Lišky, dělníka v Chrášťovicích čp. 68, a Anny roz. Čapkové z Chrášťovic čp. 30. Ohlášky 4., 11. a 18. února 1917. Řádek s rodiči ženicha a den sňatku jsou na snímku překryté.",
+  "shrnuti": "Josef Křivanec, kovář v Leskovicích čp. 32 (26 let), si 19. 2. 1917 (datum podle okrajové poznámky v jeho křestním zápisu) vzal Anežku Liškovou (22 let), narozenou v Chrášťovicích čp. 30, legitimovanou dceru Františka Lišky, dělníka v Chrášťovicích čp. 68, a Anny roz. Čapkové z Chrášťovic čp. 30. Ohlášky 4., 11. a 18. února 1917. Řádek s rodiči ženicha je na snímku překrytý.",
   "odkaz": "https://digi.ceskearchivy.cz/11358/143"
  },
  {
@@ -168,5 +168,15 @@
   "nazev": "Křest Jany Cvrčkové",
   "shrnuti": "Johanna (Jana) Julie, narozena a pokřtěna 21. 5. 1899 na Mlakách čp. 21; otec Jan Cvrček, chalupník na Mlakách čp. 21 (syn Jana Cvrčka, chalupníka tamtéž, a Marie roz. Křížové z Mlak čp. 21), matka Johanna, dcera Jana Sichrovského, domkáře z Třepkova čp. 18, a Anny roz. Ratajové z Třepkova čp. 18. Na okraji: oddána 21. 5. 1921 s Janem Jačkou.",
   "odkaz": "https://digi.ceskearchivy.cz/9631/136"
+ },
+ {
+  "klic": "radomysl_krest_josef_krivanec_1891",
+  "svazek": "trebon_6871",
+  "snimek": 14,
+  "druh": "N",
+  "datum": "20. 2. 1891",
+  "nazev": "Křest Josefa Křivance",
+  "shrnuti": "Josef, narozen 20. 2. 1891 v Leskovicích čp. 32, pokřtěn 21. 2.; otec Václav Křivanec, chalupník v Leskovicích čp. 32, syn Václava Křivance, sedláka v Leskovicích čp. 10, a Barbory roz. Finkové z Nahošína čp. 5; matka Anna, dcera Josefa Varouse, sedláka v Doubravici čp. 60, a Marie roz. Švehlové z Mečichova čp. 26. Na okraji: oddán 19. 2. 1917 s Anežkou Liškovou.",
+  "odkaz": "https://digi.ceskearchivy.cz/6871/14"
  }
 ]
