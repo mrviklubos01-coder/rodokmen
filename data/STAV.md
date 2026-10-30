@@ -34,7 +34,7 @@ pak konec `research_log.md` a sekci „Rozpracováno“.
 6. Po změně dat spustím `python3 -I tools/kontrola.py`.
 
 ## Rozpracováno (aktualizovat průběžně)
-- **Plán uživatele (29. 10. 2026):** nejdřív dohledat otcův rodokmen (Mrvíkové – Jakub z Uzenic a starší; Hupákovi z Hošovic), příběh rodu až později. Potom matčina linie: Marie Mrvíková roz. Křivancová, * 5. 5. 1948 (Křivanec, Jačková).
+- **Plán uživatele (29. 10. 2026):** nejdřív dohledat otcův rodokmen (Mrvíkové – Jakub z Uzenic a starší; Hupákovi z Hošovic), příběh rodu až později. Další na řadě (upřesněno 30. 10. 2026): slovenská větev babičky z otcovy strany Anny Kickové (* 24. 9. 1912 Lehôtka pod Brehmi). Matčina linie (Křivancová) až po dokončení otcova rodokmenu.
 - Fáze 1: od rodiny chybí údaje o babičce Marii Jačkové (7) a narození Josefa Křivance (6, asi 1920).
 - Fáze 2, větev Mrvíkové (fary Bělčice a Černívsko, SOA Třeboň, `trebon.py`; Uzenice, Chobot, Hošovice = fara Černívsko): doloženo Josef (4) * 1910 Koupě 51 (rejstřík), sňatek rodičů (pravděp.) Václav Mrvík × Marie Hupáková 1908, křest Václava 1884. Další kroky – konec `research_log.md`.
 - Hupákovi: doloženo Marie Hupáková * 1885, sňatek rodičů 1880, křest matky Marie Vavříkové 1856 (otec kovář František Vavřík, Újezdec 36). Další krok: sňatek Josefa Tintěry s Annou Kozlovou (nevlastní otec).
