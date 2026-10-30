@@ -68,5 +68,75 @@
   "lat": 50.4162,
   "lon": 14.3407,
   "osm": "Bechlín, okres Litoměřice, Ústecký kraj, 411 86, Česko"
+ },
+ "Damnov": {
+  "re": "Damno",
+  "dotaz": "Damnov, Česko",
+  "lat": 49.7902,
+  "lon": 12.8058,
+  "osm": "Damnov, Bor, okres Tachov, Plzeňský kraj, Jihozápad, Česko"
+ },
+ "Chrášťovice": {
+  "re": "Chrá",
+  "dotaz": "Chrášťovice, Česko",
+  "lat": 49.3286,
+  "lon": 13.8939,
+  "osm": "Chrášťovice, okres Strakonice, Jihočeský kraj, Jihozápad, Česko"
+ },
+ "Brloh": {
+  "re": "Brloh",
+  "dotaz": "Brloh, Drhovle, Česko",
+  "lat": 49.3268,
+  "lon": 14.0185,
+  "osm": "Brloh, Pamětice, Drhovle, okres Písek, Jihočeský kraj, Jihozápad, Česko"
+ },
+ "Nedílná": {
+  "re": "Nedí",
+  "dotaz": "Nedílná, Česko",
+  "lat": 49.3354,
+  "lon": 14.0017,
+  "osm": "Nedílná, Dubí Hora, Drhovle, okres Písek, Jihočeský kraj, Jihozápad, 387 32, Česko"
+ },
+ "Mlaka": {
+  "re": "Mlaka",
+  "dotaz": "Mlaka, Drhovle, Česko",
+  "lat": 49.3321,
+  "lon": 14.065,
+  "osm": "Drhovle, Mlaka, rozc., 20, Chlaponice, Mladotice, Drhovle, okres Písek, Jihočeský kraj, Jihozápad, 398 31, Česko"
+ },
+ "Radomyšl": {
+  "re": "Radom",
+  "dotaz": "Radomyšl, Česko",
+  "lat": 49.3159,
+  "lon": 13.9321,
+  "osm": "Radomyšl, okres Strakonice, Jihočeský kraj, Jihozápad, 387 31, Česko"
+ },
+ "Malá Turná": {
+  "re": "Malé Turn|Malá Turn",
+  "dotaz": "Malá Turná, Česko",
+  "lat": 49.3336,
+  "lon": 13.9694,
+  "osm": "Malá Turná, Jemnice, Osek, okres Strakonice, Jihočeský kraj, Jihozápad, Česko"
+ },
+ "Sedlice": {
+  "re": "Sedli",
+  "dotaz": "Sedlice, Strakonice, Česko",
+  "lat": 49.3772,
+  "lon": 13.9395,
+  "osm": "Sedlice, okres Strakonice, Jihočeský kraj, Jihozápad, 387 32, Česko"
+ },
+ "Leskovice": {
+  "re": "Lesko",
+  "dotaz": "Leskovice, Radomyšl, Česko",
+  "lat": 49.3252,
+  "lon": 13.9207,
+  "osm": "Leskovice, Radomyšl, okres Strakonice, Jihočeský kraj, Jihozápad, 387 31, Česko"
+ },
+ "Doubravice": {
+  "re": "Doubr",
+  "dotaz": "Doubravice, Strakonice, Česko",
+  "lat": 49.352,
+  "lon": 13.8619,
+  "osm": "Doubravice, okres Strakonice, Jihočeský kraj, Jihozápad, 387 35, Česko"
  }
 }

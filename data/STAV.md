@@ -34,6 +34,7 @@ pak konec `research_log.md` a sekci „Rozpracováno“.
 6. Po změně dat spustím `python3 -I tools/kontrola.py`.
 
 ## Rozpracováno (aktualizovat průběžně)
+- **30. 10. 2026 (večer):** matčina linie doložena do pradědečků a částečně dál (Křivanec, Lišková, Jačka, Cvrčková + jejich rodiče). Otevřené: sňatek Josef Jačka × Terezie Matoušková (před 1884 nebo Radomyšl), Václav Křivanec × Anna Varousová (fara Doubravice, knihy 8684/8685). Náhled webu aktualizován (snímky v `nahled/`, mimo git).
 - **30. 10. 2026:** linie dědečka Josefa Mrvíka (4) zatím uzavřena („stačí“). Uživatel zjistí údaje o rodičích matky Marie Křivancové (Josef Křivanec * asi 1920 † 1980 Damnov, Marie Jačková) – pak pokračovat matčinou linií (6, 7). Otevřené zůstává: úmrtní list Josefa Mrvíka (zajistí uživatel), Lokaj × Suchá (Mišovice 6555), Mrvíkové v Uzenicích, slovenská větev Anny Kickové (FamilySearch DGS 5014233, Item 3).
 - **Plán uživatele (29. 10. 2026):** nejdřív dohledat otcův rodokmen (Mrvíkové – Jakub z Uzenic a starší; Hupákovi z Hošovic), příběh rodu až později. Další na řadě (upřesněno 30. 10. 2026): slovenská větev babičky z otcovy strany Anny Kickové (* 24. 9. 1912 Lehôtka pod Brehmi). Matčina linie (Křivancová) až po dokončení otcova rodokmenu.
 - Fáze 1: od rodiny chybí údaje o babičce Marii Jačkové (7) a narození Josefa Křivance (6, asi 1920).
