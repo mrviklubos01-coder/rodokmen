@@ -21,6 +21,9 @@ jen že to stojí na jednom zdroji, na nejistém čtení nebo na odhadu. Doplňu
 | Rodiče Josefa Křivance (1891): Václav Křivanec × Anna Varousová | z křtu 1891 jasně; jejich sňatek nenalezen (Doubravice 1879–1894, Leskovice 1872–1894 prošlé) | jména doložená, sňatek **chybí** | křty dalších dětí (Marie 1892 Leskovice 32 – kniha 6871 sn. 16), Mečichov, Strakonice; úmrtní zápis Václava/Anny |
 | Rodiče Josefa Jačky (st.) a sňatek s Terezií Matouškovou | sňatek nenalezen (Čížová 1884–1903 v rejstříku není) | **chybí** | Čížová O 1862–1898 (id 3040) listovat 1878–1884; Radomyšl O (nevěsta z Malé Turné) |
 
+| Anna Čapková – narození | věk 26 při sňatku 1896 → asi 1870; křest nenalezen (v Chrášťovicích víc rodin Čapků) | **chybí** | Radomyšl N kniha 10 (id 6868), Chrášťovice 1868–1872 |
+| Otec Františka Lišky (1872) | nemanželský syn Anny Liškové, otec neuveden – linie končí | **chybí (nelze)** | jen pokud by ho rodinné vyprávění znalo |
+
 ## 2. Rozpory mezi zápisy
 
 | Co | Rozpor | Jak ověřit |
