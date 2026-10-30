@@ -65,8 +65,8 @@ P = {
              note="Matka Václava Hupáka (18). Sňatek 1880: „rodem Kočovské z Hošovic č. 22“; křest 1885: příjmení písař přeškrtl a opravil (čteno jako Hošovská?). Čtení nejisté."),
     38: dict(n="František Vavřík", y="", st="prob", f=["kovář v Újezdci čp. 36"], r=["belcice_krest_marie_vavrikova_1856", "belcice_snatek_vaclav_hupak_1880"],
              note="Otec Marie (19) podle jejího křtu 1856 i sňatku 1880. Pozdější zápisy (1885, 1908) uvádějí jako otce Josefa Tintěru – nejspíš nevlastní otec, viz SIDE."),
-    39: dict(n="Anna Kozlová", y="", st="prob", f=["z Koupě čp. 3", "později Koupě čp. 51 (1885)"], r=["belcice_krest_marie_vavrikova_1856", "belcice_snatek_vaclav_hupak_1880", "cernivsko_krest_marie_hupakova_1885"],
-             note="Matka Marie (19) – souhlasně v zápisu o sňatku 1880 i o křtu vnučky 1885. Možná se po Vavříkovi znovu vdala za Josefa Tintěru (hypotéza)."),
+    39: dict(n="Anna Kozlová", y="", st="prob", f=["z Koupě čp. 3"], r=["belcice_krest_marie_vavrikova_1856", "belcice_snatek_vaclav_hupak_1880", "cernivsko_krest_marie_hupakova_1885"],
+             note="Matka Marie (19), dcera Václava Kozla z Koupě čp. 3 (křest 1856, sňatek 1880). Není totožná s Annou Kozlovou, dcerou Martina Kozla, která si 1871 vzala Josefa Tintěru – viz ISSUES."),
     76: dict(n="Jakub Vavřík", y="– před 1856", st="prob", f=["kovář v Újezdci čp. 36", "† před 1856"], r=["belcice_krest_marie_vavrikova_1856"],
              note="Otec Františka (38) podle křtu vnučky 1856 (tehdy už zesnulý); spojení s rodokmenem pravděpodobné (viz 8)."),
     77: dict(n="Barbora Maštalířová", y="", st="prob", f=["z Újezdce čp. 27"], r=["belcice_krest_marie_vavrikova_1856"],
@@ -95,7 +95,7 @@ LINES = {
 # Příbuzní mimo přímou linii (sourozenci, strýcové…): k = číslo předka, ke kterému patří.
 # dict(k=16, n="Josef Novák (1865–1920)", t="Bratr Jana. Kovář v …", r=["klic_zapisu"])
 SIDE = [
-    dict(k=19, n="Josef Tintěra", t="Domkář v Koupi čp. 51. Při křtu Marie Hupákové 1885 zapsán jako otec její matky a zároveň byl kmotrem; sňatek 1880 ale uvádí jako otce nevěsty Františka Vavříka, kováře z Újezdce. Hypotéza: nevlastní otec (druhý manžel Anny Kozlové). Do jeho domu čp. 51 se Mrvíkovi po svatbě 1908 nastěhovali.", r=["cernivsko_krest_marie_hupakova_1885"]),
+    dict(k=19, n="Josef Tintěra (* asi 1830) a Anna Kozlová (* asi 1838)", t="Josef, čeledín v panském dvoře v Březnici, syn řezníka Šimona Tintěry z Koupě čp. 54; 1. 5. 1871 si vzal svobodnou Annu Kozlovou, dceru domkáře Martina Kozla z Koupě čp. 51. Při křtu Marie Hupákové 1885 a sňatku 1908 jsou uvedeni jako rodiče její matky Marie (a Josef byl 1885 kmotr), jenže Marie (* 1856) byla podle křtu i sňatku dcerou kováře Františka Vavříka a jiné Anny Kozlové (dcery Václava Kozla z Koupě čp. 3). Vztah zatím nevysvětlen – možná pěstouni nebo příbuzní. Do jejich domu čp. 51 se 1908 nastěhovali Mrvíkovi.", r=["belcice_snatek_josef_tintera_1871", "cernivsko_krest_marie_hupakova_1885"]),
     dict(k=32, n="Vojtěch Mrvík", t="Domkář v Podruhlí čp. 11, děti 1839–1847 (Marie, Anna, Anděla). Ve stejném domě se 1851 narodil syn Václava Mrvíka (32) František. Možná Václavův bratr – neověřeno."),
     dict(k=16, n="Anna a František Mrvíkovi", t="Sourozenci Václava (16): Anna * 11. 10. 1849 Podruhlí čp. 12, František * 9. 5. 1851 Podruhlí čp. 11 (podle rejstříku narozených Bělčice)."),
     dict(k=16, n="František Mrvík", t="Domkář v Podruhlí čp. 7, syn Václava Mrvíka z čp. 12 a Marie Pirhanzlové – tedy nejspíš bratr Václava (16). Jeho syn Josef se narodil 2. 4. 1884 (zápis na stejné stránce jako Václav, čteno z náhledu). František Mrvík, domkář v Podruhlí, byl 1908 svědkem na svatbě Václava (8).", r=["belcice_krest_vaclav_mrvik_1884"]),
@@ -106,7 +106,8 @@ SIDE = [
 # „Vyřešeno: …“ (na webu se skryje), „Hypotéza: …“ nebo „Otevřené: …“. Jde na web – nic citlivého.
 # ("Kdy se narodil Jan Novák?", "Otevřené: rodina říká 1850, v Holicích 1848–1852 nenalezen.")
 ISSUES = [
-    ("Kdo byl otcem Marie, provdané Hupákové (* 1856)?", "Vyřešeno: František Vavřík, kovář z Újezdce čp. 36 (křest 1856 i sňatek 1880). Josef Tintěra z Koupě čp. 51, uváděný 1885 a 1908, byl podle všeho nevlastní otec – jeho sňatek s Annou Kozlovou zatím nehledán."),
+    ("Kdo byl otcem Marie, provdané Hupákové (* 1856)?", "Vyřešeno: František Vavřík, kovář z Újezdce čp. 36 (křest 1856 i sňatek 1880)."),
+    ("Proč zápisy 1885 a 1908 uvádějí jako rodiče Marie Hupákové roz. Vavříkové Josefa Tintěru a Annu Kozlovou z Koupě čp. 51?", "Otevřené: Josef Tintěra se 1871 oženil se svobodnou Annou Kozlovou, dcerou Martina Kozla z Koupě 51 – jiná žena než Mariina matka (dcera Václava Kozla z Koupě 3). Možná Marii vychovali (příbuzní její matky?). Ověřit úmrtí Františka Vavříka a Anny Vavříkové (Bělčice, zemřelí)."),
     ("Kde se narodil Josef Mrvík (1910)?", "Vyřešeno: Koupě čp. 51, fara Bělčice (rejstřík narozených). Celý zápis s rodiči je v knize narozených, která zatím není online."),
     ("Kdo byli rodiče Josefa Mrvíka (1910)?", "Hypotéza: Václav Mrvík a Marie Hupáková, oddaní 4. 2. 1908, bydleli v Koupi čp. 51, kde se Josef narodil. Potvrdí to zápis o křtu (kniha narozených Bělčice po 1903, zatím není online) nebo úmrtní list Josefa (1976)."),
     ("Jak byli příbuzní Snopovi z Bechlína?", "Otevřené: babička Anna u nich zemřela (2002); vztah k rodině zatím neznámý."),
