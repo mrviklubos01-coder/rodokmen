@@ -17,3 +17,4 @@ Tohle je projekt rodokmenu vedený skillem **rodokmen**. Na začátku každé ko
 ## Přání uživatele
 - Každý nález zapisuj i do `data/podklady_pribeh.md` (věk snoubenců, dny svatba→narození, nemanželské děti, vojna, řemesla,
   domy, kmotři, rozpory, historické souvislosti). Uživatel z toho chce napsat rodinný příběh na pozadí dějin.
+- Vše nejisté (odhad, nejisté čtení, rozpor, údaj jen od rodiny) zapisuj do `data/k_overeni.md` s návrhem, jak to ověřit.
