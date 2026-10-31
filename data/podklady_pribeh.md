@@ -44,6 +44,9 @@ Značky: **[M]** = přečteno v matrice, **[R]** = od rodiny, **[O]** = odvozeno
 | 1934 | 29. 12. svatba Josefa Mrvíka (24, dělník, Koupě 51) a Anny Kickové (22, pomocnice v domácnosti u rolníka Janoty v Koupi 20, ze Slovenska) v Bělčicích; svědek Miroslav Mrvík (bratr?) [oddací list – rodinný doklad] | hospodářská krize; nezaměstnanost |
 | 1935 | opis oddacího listu uložen u okresního soudu v Březnici (pozemková kniha) [doklad] | — |
 | 1942 | 21. 8. babičce vystaven slovenský rodný list v Hliníku n. H. (zdarma pro chudobu) – nejspíš potřebovala doklad v Protektorátu [doklad] | Slovenský štát / Protektorát – dva státy, doklady o příslušnosti |
+| 1930 | 1. 1. † Terezie Jačková (prapraprababička), Nedílná [M] | hospodářská krize |
+| 1942 | 21. 4. † Josef Jačka, Nedílná [M] | heydrichiáda (květen–červen 1942) |
+| 1945 | 14. 3. † prababička Jana Jačková ve strakonické nemocnici; zápis německy a česky [M] | konec války (květen 1945) |
 | 1938–1945 | — | Mnichov, okupace, Protektorát; 1945 konec války |
 | 1945–1947 | Křivancovi (i rodiče) přesídlili ze Strakonicka do Damnova čp. 10 u Plané; Mrvíkovi do Boru u Tachova [M, R] | odsun Němců z pohraničí, dosidlování – noví osídlenci dostávali konfiskované usedlosti |
 | 1947 | 12. 4. sňatek Josefa Křivance (29, „majitel hospodářství v Damnově“) a Marie Jačkové (21) v Čížové [M] | — |
@@ -115,6 +118,11 @@ Značky: **[M]** = přečteno v matrice, **[R]** = od rodiny, **[O]** = odvozeno
 - **Mlaka čp. 21 – dům Křížů, kam se přiženil Cvrček**: Jan Cvrček st. (syn sedláka odjinud, snad z Černíkova) si vzal Marii, dceru chalupníka Josefa Kříže z čp. 21, a převzal chalupu; z ní pak Jan ml. (1864) a Jana (1899) [M, cizova_krest_jan_cvrcek_1864].
 - **Kolářský rod Sichrovských**: Josef Sichrovský – kolář v Čížové čp. 3; syn Jan – kolář v Třepkově čp. 18 (1868), později „chalupník“ a „domkář“; dům čp. 18 původně domek Jakuba Rataje, otce jeho ženy – i on se přiženil [M, cizova_krest_johanna_sichrovska_1868]. Syn Josef Sichrovský vystudoval a byl profesorem v Novém Jičíně (1899) – z koláře profesor.
 - **Vzorec „přiženění“**: v maminčině rodu se muži opakovaně stěhovali do domu rodiny nevěsty (Cvrček na Mlaku 21, Sichrovský do Třepkova 18) – stejně jako v otcově rodu Václav Mrvík do Podruhlí 27 a Mrvíkovi do Koupě 51 [O].
+
+### Jačkovi – úmrtí (doplněno 31. 10. 2026)
+- **Josef Jačka * 17. 6. 1858 Brloh 22, × 3. 2. 1885 Radomyšl s Terezií Matouškovou (* 24. 12. 1859 Malá Turná 2)**. Terezie zemřela na Nový rok 1930 (narozena na Štědrý den) na srdeční vadu; Josef zemřel 21. 4. 1942 jako výměnkář, 83 let, na sešlost věkem [M].
+- **Prababička Jana Jačková roz. Cvrčková zemřela 14. 3. 1945 v nemocnici ve Strakonicích na Basedowovu chorobu (45 let)** – dva měsíce před koncem války; zápis v matrice nejdřív německy, pak česky (protektorátní předpis). Tělo se souhlasem úřadů převezeno do Čížové. **Babičce Marii bylo 19 let; vdávala se 1947 už bez matky** [M].
+- Jan Jačka (1893) byl v roce 1945 „rolník“ – z domkáře a zednického pomocníka se vypracoval [M].
 
 ### Babička Anna Kicková (Slovensko)
 - **Rodný list (výpis z civilní matriky Hliník n. H., vydán 1942 „právom chudoby bez kolka“ – zdarma kvůli chudobě)**: otec **Ján Kicko, nádeník, 46 let**, matka **Anna Magulová, 32 let** – otec byl o 14 let starší; nádeník = námezdní dělník bez vlastní půdy (zapadá do historie obce: sezónní práce na Dolní zemi).
