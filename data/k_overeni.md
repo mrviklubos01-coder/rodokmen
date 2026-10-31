@@ -19,7 +19,7 @@ jen že to stojí na jednom zdroji, na nejistém čtení nebo na odhadu. Doplňu
 | Rodiče Václava Mrvíka (1854): Václav Mrvík × Marie Pirhanzlová | známe jen z křtu syna; jejich sňatek (asi 1848–49) nenalezen | jména doložená, sňatek **chybí** | Černívsko O 1807–1866 oddíl Chobot; Blatná |
 | Jakub Mrvík (tesař, Uzenice) jako otec Václava st. | jediný zdroj: křest vnuka 1854; v Uzenicích bylo víc Mrvíků stejných jmen | **čtení / odhad** | sňatek Václava st. (uvede rodiče); Černívsko N 1807–1839 |
 | Rodiče Josefa Křivance (1891): Václav Křivanec × Anna Varousová | z křtu 1891 jasně; jejich sňatek nenalezen (Doubravice 1879–1894, Leskovice 1872–1894 prošlé) | jména doložená, sňatek **chybí** | křty dalších dětí (Marie 1892 Leskovice 32 – kniha 6871 sn. 16), Mečichov, Strakonice; úmrtní zápis Václava/Anny |
-| Rodiče Josefa Jačky (st.) a sňatek s Terezií Matouškovou | sňatek nenalezen (Čížová 1884–1903 v rejstříku není) | **chybí** | Čížová O 1862–1898 (id 3040) listovat 1878–1884; Radomyšl O (nevěsta z Malé Turné) |
+| ✅ Sňatek Josefa Jačky s Terezií Matouškovou | podle úmrtních zápisů: Radomyšl 3. 2. 1885 (samotný zápis nečten – Radomyšl O kniha 18, oddíl Malá Turná) | téměř vyřešeno | Čížová O 1862–1898 (id 3040) listovat 1878–1884; Radomyšl O (nevěsta z Malé Turné) |
 
 | ✅ Anna Čapková – narození | nalezeno 31. 10. 2026: * 30. 12. 1869 Chrášťovice 64 | vyřešeno | Radomyšl N kniha 10 (id 6868), Chrášťovice 1868–1872 |
 | Otec Františka Lišky (1872) | nemanželský syn Anny Liškové, otec neuveden – linie končí | **chybí (nelze)** | jen pokud by ho rodinné vyprávění znalo |
@@ -127,4 +127,11 @@ jen že to stojí na jednom zdroji, na nejistém čtení nebo na odhadu. Doplňu
 - Marie **Mocohradová (?)** z Radomyšle – matka Anny Liškové (křest Anežky 1894) – příjmení nejisté.
 - Kaplan „Zedrachovský (?)“ v křtu Anny Čapkové 1869 – nejisté (nepodstatné).
 - **Václav Křivanec (24)** – narozen kde? V Leskovicích 1854–1866 není; statek Leskovice č. 10 patřil 1854–1860 Kovaříkům. Křivancovi přišli později. Hledat: Radomyšl N 1842–1853 (id 6866), Doubravice (tam žili Křivancovi čp. 22, 24), pozemková kniha Leskovice č. 10.
+
+### 8. Stav k 31. 10. 2026 – hledání ukončeno, předáno ke kronice
+Zbývající otevřené body (pro případné pozdější hledání):
+- Václav Křivanec (24) – kde se narodil a kdy se oženil s Annou Varousovou (Leskovice 1854–1866 ani sňatky 1872–1894 nic; statek Leskovice 10 patřil 1854–60 Kovaříkům). Možnosti: úmrtní zápis Václava nebo Anny Křivancové (Radomyšl Z, rejstřík), pozemková kniha Leskovice.
+- Otec Františka Lišky (nemanželský) – nelze.
+- Sňatek Václava Mrvíka a Marie Pirhanzlové (asi 1848), Lokaj × Suchá – nenalezeno.
+- Anna Kicková: farní zápis (FamilySearch), sňatek Jána Kicka a Anny Magulové, bratr Štefan – matrika Hliník nad Hronom.
 
