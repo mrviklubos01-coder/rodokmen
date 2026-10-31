@@ -118,3 +118,10 @@ jen že to stojí na jednom zdroji, na nejistém čtení nebo na odhadu. Doplňu
 - Syn Jan (otec) se narodil až 1948 v Boru – 13 let po svatbě. Měli dědeček a babička **starší děti** (narozené v Koupi 1935–1945)? Zeptat se v rodině.
 - Rub: ověřený opis uložen 1935 ve sbírce listin knihovního oddělení **okresního soudu v Březnici** (pozemková kniha) → dědeček nejspíš 1935 nabyl nemovitost nebo se zapisovala svatební smlouva – **pozemková kniha Koupě** (SOA Praha / Katastrální úřad Příbram) by mohla ukázat dům.
 
+### 7c. Rodný list Anny Kickové (nalezen uživatelem 31. 10. 2026)
+- ✅ Narození 24. 9. 1912 a rodiče (**Ján Kicko, nádeník, 46 let; Anna Magulová, 32 let**) doloženy úředním výpisem z civilní matriky.
+- ✅ **Matriční obvod pro Lehôtku pod Brehmi byl (1912/1942) Hliník nad Hronom** – tam je nejspíš i dnes kniha narozených 1912 → dotazy na další Kickovy (bratr Štefan, sňatek rodičů) směřovat na **Matriku Hliník nad Hronom** (Železničná 320, tel. 045/676 10 66).
+- Otec Ján * asi 1866, matka Anna * asi 1880 (z věku – ±1 rok). Jejich sňatek asi 1900–1912 (Horné Opatovce, FamilySearch „Manželstvá 1886–1909“ nebo civilní matrika Hliník).
+- Proč byl rodný list vydán **21. 8. 1942** „právom chudoby“? Pravděpodobně ho babička potřebovala v Čechách (Protektorát) – úřední doklad, domovská příslušnost, státní občanství? Ověřit v rodině.
+- Oznamovatelka „Mária Melišová (?)“ – čtení nejisté (porodní bába?).
+
