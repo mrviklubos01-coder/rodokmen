@@ -41,6 +41,8 @@ Značky: **[M]** = přečteno v matrice, **[R]** = od rodiny, **[O]** = odvozeno
 | 1918 | — | vznik Československa (28. 10.) |
 | 1921 | 21. 5. sňatek Jana Jačky (28, zednický pomocník) a Jany Cvrčkové (v den jejích 22. narozenin) [M] | — |
 | 1925 | 29. 9. narozena babička Marie Jačková, Nedílná čp. 37 [M, R] | — |
+| 1934 | 29. 12. svatba Josefa Mrvíka (24, dělník, Koupě 51) a Anny Kickové (22, pomocnice v domácnosti u rolníka Janoty v Koupi 20, ze Slovenska) v Bělčicích; svědek Miroslav Mrvík (bratr?) [oddací list – rodinný doklad] | hospodářská krize; nezaměstnanost |
+| 1935 | opis oddacího listu uložen u okresního soudu v Březnici (pozemková kniha) [doklad] | — |
 | 1938–1945 | — | Mnichov, okupace, Protektorát; 1945 konec války |
 | 1945–1947 | Křivancovi (i rodiče) přesídlili ze Strakonicka do Damnova čp. 10 u Plané; Mrvíkovi do Boru u Tachova [M, R] | odsun Němců z pohraničí, dosidlování – noví osídlenci dostávali konfiskované usedlosti |
 | 1947 | 12. 4. sňatek Josefa Křivance (29, „majitel hospodářství v Damnově“) a Marie Jačkové (21) v Čížové [M] | — |
@@ -112,6 +114,8 @@ Značky: **[M]** = přečteno v matrice, **[R]** = od rodiny, **[O]** = odvozeno
 - **Vzorec „přiženění“**: v maminčině rodu se muži opakovaně stěhovali do domu rodiny nevěsty (Cvrček na Mlaku 21, Sichrovský do Třepkova 18) – stejně jako v otcově rodu Václav Mrvík do Podruhlí 27 a Mrvíkovi do Koupě 51 [O].
 
 ### Babička Anna Kicková (Slovensko)
+- **Rodiče: Jan Kicko, domkář v Lehôtce, a Anna roz. Magulová** (oddací list 1934). Magulovi jsou v Lehôtce starý rod – 1804 boženík Ján Magula [doklad, H].
+- Ve 22 letech sloužila jako **pomocnice v domácnosti u rolníka Václava Janoty v Koupi čp. 20** – soused Mrvíků z čp. 51; tak se zřejmě seznámila s Josefem. Do Čech tedy přišla nejpozději 1934 (ne až za války) [doklad].
 - * 24. 9. 1912 Lehôtka pod Brehmi (maďarsky Apáthegyalja, farnost Horné Opatovce), Tekovská stolice [R, M-katalog].
 - Zemřela 2002 v Bechlíně u příbuzných Snopových [R].
 - Měla bratra **Štefana Kicka**, spíše mladšího [R, 31. 10. 2026]. Jak se dostala do Čech a k dědečkovi – zjistit od rodiny.

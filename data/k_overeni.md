@@ -14,8 +14,8 @@ jen že to stojí na jednom zdroji, na nejistém čtení nebo na odhadu. Doplňu
 
 | Co | Proč nejisté | Jistota | Jak ověřit |
 |---|---|---|---|
-| **Rodiče dědečka Josefa Mrvíka (1910)** jsou Václav Mrvík a Marie Hupáková | rejstřík narozených 1910 jména rodičů neuvádí; kniha narozených Bělčice po 1903 není online. Pro spoj mluví: stejný dům Koupě 51, svatba 1908, dcera Marie 1909, otec „domkář“ | **odhad** (velmi pravděpodobné) | **úmrtní list Josefa Mrvíka (Bor, 30. 6. 1976)** – zajišťuje uživatel; případně oddací list Josefa a Anny Kickové, domovský list, výpis z matriky Bělčice (SOA Třeboň, písemná žádost) |
-| Na tomto spoji visí **celá otcova linie nad dědečkem** (Mrvíkové, Hupákovi, Lokajovi, Vavříkovi… – asi 30 osob) | viz výše | **odhad** | jakmile se potvrdí, přepnou se všichni na „doloženo“ |
+| ✅ VYŘEŠENO 31. 10. 2026 oddacím listem 1934 – **Rodiče dědečka Josefa Mrvíka (1910)** jsou Václav Mrvík a Marie Hupáková | rejstřík narozených 1910 jména rodičů neuvádí; kniha narozených Bělčice po 1903 není online. Pro spoj mluví: stejný dům Koupě 51, svatba 1908, dcera Marie 1909, otec „domkář“ | **odhad** (velmi pravděpodobné) | **úmrtní list Josefa Mrvíka (Bor, 30. 6. 1976)** – zajišťuje uživatel; případně oddací list Josefa a Anny Kickové, domovský list, výpis z matriky Bělčice (SOA Třeboň, písemná žádost) |
+| ✅ VYŘEŠENO – přepnuto na „doloženo“. Na tomto spoji visí **celá otcova linie nad dědečkem** (Mrvíkové, Hupákovi, Lokajovi, Vavříkovi… – asi 30 osob) | viz výše | **odhad** | jakmile se potvrdí, přepnou se všichni na „doloženo“ |
 | Rodiče Václava Mrvíka (1854): Václav Mrvík × Marie Pirhanzlová | známe jen z křtu syna; jejich sňatek (asi 1848–49) nenalezen | jména doložená, sňatek **chybí** | Černívsko O 1807–1866 oddíl Chobot; Blatná |
 | Jakub Mrvík (tesař, Uzenice) jako otec Václava st. | jediný zdroj: křest vnuka 1854; v Uzenicích bylo víc Mrvíků stejných jmen | **čtení / odhad** | sňatek Václava st. (uvede rodiče); Černívsko N 1807–1839 |
 | Rodiče Josefa Křivance (1891): Václav Křivanec × Anna Varousová | z křtu 1891 jasně; jejich sňatek nenalezen (Doubravice 1879–1894, Leskovice 1872–1894 prošlé) | jména doložená, sňatek **chybí** | křty dalších dětí (Marie 1892 Leskovice 32 – kniha 6871 sn. 16), Mečichov, Strakonice; úmrtní zápis Václava/Anny |
@@ -108,4 +108,13 @@ jen že to stojí na jednom zdroji, na nejistém čtení nebo na odhadu. Doplňu
 - Způsob žádosti: dle smlouvy ČR–SR o právní pomoci (1994) mohou občané posílat žádosti o výpisy z matrik **přímo příslušnému úřadu, poštou, bezplatně**. Česká **datová schránka do slovenských úřadů nefunguje** (slovenská elektronická schránka vyžaduje slovenský eID). E-mailem lze většinou poslat dotaz; úřední výpis obvykle chodí poštou. Alternativa: **genealogický výpis ze státního archivu** (formulář „Žiadosť o genealogický výpis z matriky – zahraničný žiadateľ“, MV SR).
 - **Nová stopa:** v 1. sv. válce padli **Laurinec Kicko a Mikuláš Kicko** z Lehôtky – možní příbuzní (otec?). Ověřit ve farním zápisu 1912 (jméno otce) a v seznamech padlých (Vojenský historický archív Bratislava, VHA – kartotéka padlých).
 - **Bratr Štefan Kicko** (od rodiny 31. 10. 2026, „spíše mladší“ než Anna). Pokud se narodil až po roce 1912 a otec padl v 1. sv. válce, musel se narodit nejpozději asi 1915–1919 → pomůže rozhodnout, zda padlý Laurinec nebo Mikuláš Kicko mohl být jejich otec. Ověřit: křest Štefana ve stejné knize na FamilySearch (Krsty 1886–1923, DGS 5014233, Item 3) – projít 1913–1923; ve stejném zápisu budou rodiče.
+
+### 7b. Oddací list 1934 (nalezen uživatelem 31. 10. 2026) – co přinesl a co zbývá
+- ✅ Rodiče dědečka Josefa potvrzeny → celá otcova linie Mrvíků, Hupáků, Lokajů, Vavříků je **doložená**.
+- ✅ Babiččino datum a místo narození potvrzeno; **rodiče: Jan Kicko, domkář v Lehôtce, a Anna roz. Magulová** (okres Nová Baňa). Ověřit ve slovenské matrice (FamilySearch – Krsty 1886–1923; hledat i sňatek Jan Kicko × Anna Magulová asi 1900–1912 ve stejném filmu, „Manželstvá 1886–1909“).
+- Jan Kicko v roce 1934 nejspíš žil (není „†“) → padlí Laurinec a Mikuláš Kicko **nebyli její otec**, spíš strýcové/příbuzní.
+- Svědek **Miroslav Mrvík**, dělník v Koupi 51 – nejspíš bratr dědečka Josefa. Ověřit v rodině.
+- Babička sloužila u rolníka **Václava Janoty v Koupi čp. 20** – takto se nejspíš seznámila s dědečkem (sousedé v Koupi). Kdy a jak přišla ze Slovenska do Koupě? (rodina)
+- Syn Jan (otec) se narodil až 1948 v Boru – 13 let po svatbě. Měli dědeček a babička **starší děti** (narozené v Koupi 1935–1945)? Zeptat se v rodině.
+- Rub: ověřený opis uložen 1935 ve sbírce listin knihovního oddělení **okresního soudu v Březnici** (pozemková kniha) → dědeček nejspíš 1935 nabyl nemovitost nebo se zapisovala svatební smlouva – **pozemková kniha Koupě** (SOA Praha / Katastrální úřad Příbram) by mohla ukázat dům.
 

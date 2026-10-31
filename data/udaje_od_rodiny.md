@@ -26,3 +26,9 @@ Co víme z vyprávění a rodinných dokumentů – kdo to řekl / odkud to je a
 - Dědeček **Josef Křivanec**, * 1917, bydlel v obci Petrovice, „zřejmě se tam i narodil“; jižní Čechy, okres Strakonice nebo Písek.
 - Pozn. (z matriky 1947): Josef Křivanec se podle zápisu o sňatku narodil v **Leskovicích** čp. 32 (okr. Strakonice), ne v Petrovicích.
 - 31. 10. 2026: Babička Anna Kicková měla bratra **Štefana Kicka**, „spíše mladšího“ (tedy narozen asi po 1912).
+- 31. 10. 2026: **Oddací list Josefa Mrvíka a Anny Kickové** (rodinný doklad, ověřená kopie MěÚ Tachov 18. 1. 1993; uložen v `dokumenty/`):
+  oddáni 29. 12. 1934 ve farním kostele v Bělčicích (fara Bělčice, matrika oddaných kniha D, fol. 142, č. 5/1934; vystaveno 30. 12. 1934, farář Ant. Jarolímek).
+  Ženich Josef Mrvík, dělník v Koupi čp. 51, nar. tamtéž 13. 3. 1910, manž. syn Václava Mrvíka, domkáře v Koupi čp. 51, a Marie roz. Hupákové z Hostišovic čp. 16.
+  Nevěsta Anna Kicková, pomocnice v domácnosti v Koupi č. 20, nar. 24. 9. 1912 v Lehotce na Slov., manž. dcera Jana Kicko, domkáře v Lehotce, a Anny roz. Magulové z Lehotky – okres Nová Baňa. Oba svobodní, řím.-kat.
+  Svědci: Václav Janota, rolník v Koupi čp. 20; Miroslav Mrvík, dělník v Koupi čp. 51. Ohlášky 16., 23. a 26. (?) prosince 1934.
+  Na rubu: ověřený opis založen ve sbírce listin knihovního oddělení okresního soudu v Březnici 6. 8. 1935 (č. 463/1935?); č. j. 350/48.
