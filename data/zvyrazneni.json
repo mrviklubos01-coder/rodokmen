@@ -286,5 +286,29 @@
   ],
   "status": "ok",
   "note": "Zápis z 30. 12. 1869 – Anna Čapková."
+ },
+ "cizova_umrti_terezie_jackova_1930": {
+  "boxes": [
+   [
+    0.0,
+    0.68,
+    1.0,
+    0.81
+   ]
+  ],
+  "status": "ok",
+  "note": "Zápis č. 1/1930 – úmrtí Terezie Jačkové."
+ },
+ "cizova_umrti_josef_jacka_1942": {
+  "boxes": [
+   [
+    0.0,
+    0.735,
+    1.0,
+    0.86
+   ]
+  ],
+  "status": "ok",
+  "note": "Zápis č. 23/1942 – úmrtí Josefa Jačky."
  }
 }
