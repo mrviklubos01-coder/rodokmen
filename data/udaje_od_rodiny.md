@@ -35,5 +35,5 @@ Co víme z vyprávění a rodinných dokumentů – kdo to řekl / odkud to je a
 - 31. 10. 2026: **Rodný list Anny Kickové** (rodinný doklad, originál z roku 1942; `dokumenty/rodny_list_anna_kickova_1912.jpg`):
   výpis z matriky narozených **matričního obvodu Hliník nad Hronom**, okres Nová Baňa, župa Pohronská; běžné č. 86; zapsáno 24. 9. 1912,
   narozena 24. (dvadsiateho štvrtého) septembra 1912; Anna, dievča, rím.-kat.; rodiče **Ján Kicko, nádenník, r. k., 46 let** a **Anna Magula, r. k., 32 let**,
-  bydliště Lehotka pod Brehy. Oznamovatelka: Mária Melišová (?), r. k. (porodní bába?); podpis/jméno „Stefka Ferdinand“ (?).
+  bydliště Lehotka pod Brehy. Oznamovatelka: **Mária Mališová**, r. k.; matrikář při zápisu 1912: **Štefan Ferdinand** (upřesnil uživatel 31. 10. 2026).
   Vydáno v Hliníku nad Hronom 21. 8. 1942, matrikář (podpis), razítko Matričný obvod Hliník nad Hronom. Nahoře: „Právom chudoby bez kolka!“ (bez poplatku – pro chudobu).

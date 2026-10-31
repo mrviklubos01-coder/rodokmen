@@ -123,5 +123,5 @@ jen že to stojí na jednom zdroji, na nejistém čtení nebo na odhadu. Doplňu
 - ✅ **Matriční obvod pro Lehôtku pod Brehmi byl (1912/1942) Hliník nad Hronom** – tam je nejspíš i dnes kniha narozených 1912 → dotazy na další Kickovy (bratr Štefan, sňatek rodičů) směřovat na **Matriku Hliník nad Hronom** (Železničná 320, tel. 045/676 10 66).
 - Otec Ján * asi 1866, matka Anna * asi 1880 (z věku – ±1 rok). Jejich sňatek asi 1900–1912 (Horné Opatovce, FamilySearch „Manželstvá 1886–1909“ nebo civilní matrika Hliník).
 - Proč byl rodný list vydán **21. 8. 1942** „právom chudoby“? Pravděpodobně ho babička potřebovala v Čechách (Protektorát) – úřední doklad, domovská příslušnost, státní občanství? Ověřit v rodině.
-- Oznamovatelka „Mária Melišová (?)“ – čtení nejisté (porodní bába?).
+- ✅ Oznamovatelka **Mária Mališová** (upřesněno uživatelem); kdo to byl – porodní bába? sousedka? příbuzná? – neznámé. Matrikář 1912 **Štefan Ferdinand**.
 
