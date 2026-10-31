@@ -21,7 +21,7 @@ jen že to stojí na jednom zdroji, na nejistém čtení nebo na odhadu. Doplňu
 | Rodiče Josefa Křivance (1891): Václav Křivanec × Anna Varousová | z křtu 1891 jasně; jejich sňatek nenalezen (Doubravice 1879–1894, Leskovice 1872–1894 prošlé) | jména doložená, sňatek **chybí** | křty dalších dětí (Marie 1892 Leskovice 32 – kniha 6871 sn. 16), Mečichov, Strakonice; úmrtní zápis Václava/Anny |
 | Rodiče Josefa Jačky (st.) a sňatek s Terezií Matouškovou | sňatek nenalezen (Čížová 1884–1903 v rejstříku není) | **chybí** | Čížová O 1862–1898 (id 3040) listovat 1878–1884; Radomyšl O (nevěsta z Malé Turné) |
 
-| Anna Čapková – narození | věk 26 při sňatku 1896 → asi 1870; křest nenalezen (v Chrášťovicích víc rodin Čapků) | **chybí** | Radomyšl N kniha 10 (id 6868), Chrášťovice 1868–1872 |
+| ✅ Anna Čapková – narození | nalezeno 31. 10. 2026: * 30. 12. 1869 Chrášťovice 64 | vyřešeno | Radomyšl N kniha 10 (id 6868), Chrášťovice 1868–1872 |
 | Otec Františka Lišky (1872) | nemanželský syn Anny Liškové, otec neuveden – linie končí | **chybí (nelze)** | jen pokud by ho rodinné vyprávění znalo |
 
 ## 2. Rozpory mezi zápisy
@@ -124,4 +124,5 @@ jen že to stojí na jednom zdroji, na nejistém čtení nebo na odhadu. Doplňu
 - Otec Ján * asi 1866, matka Anna * asi 1880 (z věku – ±1 rok). Jejich sňatek asi 1900–1912 (Horné Opatovce, FamilySearch „Manželstvá 1886–1909“ nebo civilní matrika Hliník).
 - Proč byl rodný list vydán **21. 8. 1942** „právom chudoby“? Pravděpodobně ho babička potřebovala v Čechách (Protektorát) – úřední doklad, domovská příslušnost, státní občanství? Ověřit v rodině.
 - ✅ Oznamovatelka **Mária Mališová** (upřesněno uživatelem); kdo to byl – porodní bába? sousedka? příbuzná? – neznámé. Matrikář 1912 **Štefan Ferdinand**.
-
+- Marie **Mocohradová (?)** z Radomyšle – matka Anny Liškové (křest Anežky 1894) – příjmení nejisté.
+- Kaplan „Zedrachovský (?)“ v křtu Anny Čapkové 1869 – nejisté (nepodstatné).

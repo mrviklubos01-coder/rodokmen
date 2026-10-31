@@ -103,6 +103,8 @@ Značky: **[M]** = přečteno v matrice, **[R]** = od rodiny, **[O]** = odvozeno
 - **František Liška, * 1872 Sedlice** – sám nemanželský syn Anny Liškové, dcery obecního sluhy v Sedlici čp. 78; nádeník [M]. Na webu se souhlasem uživatele.
 - **Josef Křivanec (6), * 1917** – v 29 letech „majitel hospodářství v Damnově čp. 10“; svědkem na svatbě František Křivanec, vrchní strážmistr SNB (?) z Písku – nejspíš bratr [M, čtení nejisté].
 
+- **Anna Čapková, * 30. 12. 1869 Chrášťovice 64** – dcera domkáře Jana Čapka (syna sedláka Matěje z Chrášťovic 2 – sestup ze statku do domku) a Josefy Duchoslavové, dcery **podruha** z Lázu. Porodní bába Marcellina Červenková z Radomyšle – tatáž u Josefa Křivance 1891 a u Anežky 1894 (Marcellina Červenková) [M].
+
 ### Jačkovi, Cvrčkovi, Sichrovští, Matouškovi
 - **Nedílná čp. 37 (obec Brloh)** – domek Jačků: Josef Jačka (* v sousedním čp. 22) → Jan → Marie (babička) [M]. Z domku se 1909–1928 provdalo nejméně šest Jačkových dcer (sestry Jana) [M, rejstřík].
 - **Jan Jačka, * 1. 1. 1893** – narodil se na Nový rok; zednický pomocník [M].
