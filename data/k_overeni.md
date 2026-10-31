@@ -126,3 +126,5 @@ jen že to stojí na jednom zdroji, na nejistém čtení nebo na odhadu. Doplňu
 - ✅ Oznamovatelka **Mária Mališová** (upřesněno uživatelem); kdo to byl – porodní bába? sousedka? příbuzná? – neznámé. Matrikář 1912 **Štefan Ferdinand**.
 - Marie **Mocohradová (?)** z Radomyšle – matka Anny Liškové (křest Anežky 1894) – příjmení nejisté.
 - Kaplan „Zedrachovský (?)“ v křtu Anny Čapkové 1869 – nejisté (nepodstatné).
+- **Václav Křivanec (24)** – narozen kde? V Leskovicích 1854–1866 není; statek Leskovice č. 10 patřil 1854–1860 Kovaříkům. Křivancovi přišli později. Hledat: Radomyšl N 1842–1853 (id 6866), Doubravice (tam žili Křivancovi čp. 22, 24), pozemková kniha Leskovice č. 10.
+
